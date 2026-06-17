@@ -51,6 +51,26 @@
   ],
   "attachments": [
     {
+      "id": "1516863045354127471",
+      "name": "IL003_26.2_items.csv",
+      "contentType": "text/csv; charset=utf-8",
+      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1516863045354127471/26.2_items.csv?ex=6a34304b&is=6a32decb&hm=782acddfffdfdaf522c0a5b4233d3902853d2bca86f788b351423af21729fa22&",
+      "timestamp": 1781718732028,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "For 26.2: 1539 total, 1172 included, 367 excluded",
+      "size": 122120,
+      "canDownload": true,
+      "hash": "e6a6ee66952f60a4b4ab35ac018f650e55cc62aec23fedc3eba1d9f077669473",
+      "path": "attachments/IL003_26.2_items.csv"
+    },
+    {
       "id": "1512598165281443910",
       "name": "IL003_26.1.2_items.csv",
       "contentType": "text/csv; charset=utf-8",
@@ -132,12 +152,13 @@
     "threadId": "1510873981798842449",
     "forumId": "1388599490898038945",
     "continuingMessageIds": [
-      "1510873992532197416"
+      "1516863350083158127",
+      "1516863350728822945"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1510873981798842449",
-    "uploadMessageId": "1512600087631495218"
+    "uploadMessageId": "1516863341841223801"
   },
   "archivedAt": 1780290826312,
-  "updatedAt": 1780702362793,
+  "updatedAt": 1781718801847,
   "num_comments": 0
 }

@@ -27,6 +27,8 @@ Made by using the CSV export tool on https://layout.storagecatalog.org/
 11. Included (yes if survival obtainable and not unstackable, no otherwise)
 
 ## Resources
+- [IL003_26.2_items.csv](attachments/IL003_26.2_items.csv): text/csv; charset=utf-8
+  - For 26.2: 1539 total, 1172 included, 367 excluded
 - [IL003_26.1.2_items.csv](attachments/IL003_26.1.2_items.csv): text/csv; charset=utf-8
   - For 26.1 - 26.1.2: 1506 total, 1142 included, 364 excluded
 - [IL003_1.21.8_items.csv](attachments/IL003_1.21.8_items.csv): text/csv; charset=utf-8
