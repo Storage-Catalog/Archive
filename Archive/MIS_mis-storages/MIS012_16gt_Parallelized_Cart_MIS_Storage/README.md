@@ -49,6 +49,6 @@ Chunkloader excluded in schem but redstone connection for one included. Recommen
 <img src="images/Slice.png?raw=1" height="300px">
 
 ## Resources
-- [MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic](attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic): MC 1.21.10, Size 19x14x45 blocks
 - [MIS012_16gt-Cart-MIS-Storage-Categories.zip](attachments/MIS012_16gt-Cart-MIS-Storage-Categories.zip): discord
   - Contains JSON configuration for the item layout tool website
+- [MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic](attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic): MC 1.21.10, Size 19x14x45 blocks
