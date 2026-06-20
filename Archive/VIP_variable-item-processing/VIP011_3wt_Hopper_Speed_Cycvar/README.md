@@ -7,7 +7,7 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1517738568137576499)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1517748061512794209)
 
 A compact (3x7x12 slice) hopper speed cyclical variable sorter that splits and merges a batch of mixed boxes while producing minimal partial boxes. Ready to use with a cubic footprint.
 ## Features
@@ -38,4 +38,4 @@ A compact (3x7x12 slice) hopper speed cyclical variable sorter that splits and m
 4. Only input boxes into the input or equivalent hopper line.
 
 ## Resources
-- [VBS010_simple_cycvar_v1_0_iigo.litematic](attachments/VBS010_simple_cycvar_v1_0_iigo.litematic): MC 1.21.11, Size 7x12x35 blocks
+- [VIP011_simple_cycvar_v1_0_iigo.litematic](attachments/VIP011_simple_cycvar_v1_0_iigo.litematic): MC 1.21.11, Size 7x12x35 blocks
