@@ -333,20 +333,20 @@
     "id": "1375569954073477120",
     "name": "variable-item-processing",
     "code": "VIP",
-    "embedding": "NQQVBCch9CPW3Onp+ij4+hUEFCQH4T39AAjn5cwe3vsa6/Lz6vn+9ADV9xIa9Zwi/gfIGwMPAgUO8QwHJwQMFBz9/yb3CQjyEv8Z/ekfFDImCDU9/QkW+Pg36toIAhLPA/wNEvrqHvb1CvLA2iUIHh0M5Bsk+fcIJBcaAwnnKwzw2QQAIQnu2fABF/kCAAAUAOPp+u0rCAYC5+UdAfTL3vIwBisD9vgQBQIL8hcf4AEbQPv35/HxBgDgBv31Gt/UKwX05tstGxclBwzwAvUOEi0f7csM5hf/CPID2zUJFxfWJjoSQezyFAExBwjwFzLe+gn+J/oAGPYQ7AsXAAMa9w==",
+    "embedding": "SAQLDjMr6Brk3uzy/jb1AQMFFB0O20P18RLh0dEZ6gYY9PD32/b2/vfS8BMUBLck8wi/LQURDvMQ9wwDJwQHCCHsAAL78ggDIwUkBOUMGCUkFRg7AwIJ9uk+9t0V+BrU+wkRDP/wF/YBC+zM4CgTIB4i6gkhABAZJQsMCv/iNA7+zf4DEhruzPMLAPzu/wj69OnoAegr8wUT8+EF+/bj5Pcq+SLq9v4dDQcD9AQR3/8rQAro6+z6AvLyEOrtJeDaGxP65dUeIQ0rCwf89QEMFyQn8MUO2CAB7/L32ijvGxXeKEkMOvHwB/UpBRLuHCn1BBEGKvv6Hf8V5wsQGu4f8A==",
     "category": "Advanced Tech",
     "path": "Archive/VIP_variable-item-processing",
-    "description": "Variable item sorting",
+    "description": "Variable item sorting devices such as variable filter loaders, splitters, cycvars, etc...",
     "position": 68
   },
   {
     "id": "1375570066451599401",
     "name": "variable-box-processing",
     "code": "VBS",
-    "embedding": "PwEJACod/CTb1une8CDt7Rn4HREA0kD+BA3v3tok8fcU6vLq6AEF+/7WAA8N96At/wPXIv0W+gsD9QwEJP0JHR3/BxX2CP4FHQEf/90YEzAtCC03AvkQ+/wy+tQDBQnOAP0TGOv1Ke3uC+2+0yoUESMZ4hoZAg8HFSYUAAXrHAz61woBIgL31uz1EPoHBfkoAuHgAPEpCgb55+sg/uzP5/Us/CkE6wIT/QkE7CEa4gEqRgT+4fP7ChLgAP/4D+TUJA7x7tYrHBUlFhPmBQQWCSYR6sUP6RUDBfkD5zcWFiTZKDsEPeToFgApCgD7Dy/dAf8HHfkEGvMS9wkX7wAa+g==",
+    "embedding": "TggMBCoa/Bbe2uLoCx/Z9ATxFBcK0z76AxLs0NobAAYa7QLq3AME8fHfAh4LCb4x+wTRKAAXDP4J7wn8IPwEBSTmEPEL/f8eFw8gEekHDyErDxwz+vML7+Ir+9kdAAzi9/0kHuv5OuALAvbM1h0IFxUr+gkW+g4GJB37+PfvOBAB0fUJHh363PX2/QDvEgAX+9zrC+YjAf396uca/Prl6+4t7DLu6v0aAQYO7Q4Z5g4vRxT05eYECAfhEgECAt/cHgoG4NcZJhAoIQ7v9xgSERwd88AN1CAB6gD+5Df/GyDgLUr6PPH1EO4pESP3GBngAwQJIfv/KvYW8wAc+fIe+w==",
     "category": "Advanced Tech",
     "path": "Archive/VBS_variable-box-processing",
-    "description": "Variable box sorting",
+    "description": "Variable box sorting devices such as svars, temp storages, groupers, etc...",
     "position": 69
   },
   {
