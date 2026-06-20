@@ -4,7 +4,7 @@
   "code": "VBS",
   "category": "Advanced Tech",
   "description": "Variable box sorting",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1386933382579093594",
@@ -50,6 +50,11 @@
       "id": "1503401138379292733",
       "code": "VBS009",
       "path": "VBS009_Hyperthreaded_Whitelister_Temp_v2"
+    },
+    {
+      "id": "1517401090910457866",
+      "code": "VBS010",
+      "path": "VBS010_3wt_Hopper_Speed_Cycvar"
     }
   ]
 }

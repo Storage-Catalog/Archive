@@ -1,0 +1,172 @@
+{
+  "id": "1517401090910457866",
+  "name": "3wt Hopper Speed Cycvar",
+  "code": "VBS010",
+  "reservedCodes": [
+    "VBS010"
+  ],
+  "pastPostThreadIds": [
+    "1517738568137576499"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "408678153041739778",
+      "username": "iigo",
+      "displayName": "iigo",
+      "iconURL": "https://cdn.discordapp.com/avatars/408678153041739778/d993345bb6366d6711050b874d1a51ef.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491795369525312",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1517401091518628051",
+      "name": "simple_cycvar_v1_0_front.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1517401090910457866/1517401091518628051/simple_cycvar_v1_0_front.png?ex=6a362564&is=6a34d3e4&hm=997840aa59695599528509c7659a5bbd627a68b7fe1345b553a4d0673fc6fa75&",
+      "timestamp": 1781847012022,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "408678153041739778",
+        "username": "iigo",
+        "displayName": "iigo",
+        "iconURL": "https://cdn.discordapp.com/avatars/408678153041739778/d993345bb6366d6711050b874d1a51ef.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Front view of cycvar",
+      "size": 196942,
+      "canDownload": true,
+      "width": 1000,
+      "height": 755,
+      "path": "images/simple_cycvar_v1_0_front.png",
+      "hash": "b0666e038abe847289d8e08c2d232d3387598aee51817c97f435defd671e3f22",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1517401090910457866/1517401720286740490/1517401091518628051-simple_cycvar_v1_0_front.png?ex=6a3625fa&is=6a34d47a&hm=1a583f67f78c36d4355b5f208ea794d4a2835d9af383f4033ce55663b1a02722&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1517401092277665873",
+      "name": "VBS010_simple_cycvar_v1_0_iigo.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1517401090910457866/1517401092277665873/simple_cycvar_v1_0_iigo.litematic?ex=6a362564&is=6a34d3e4&hm=b87ede9ecc42bf4ffd26c9a3340daed57655024628bd00517ccde994cfccccd7&",
+      "timestamp": 1781847012022,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "408678153041739778",
+        "username": "iigo",
+        "displayName": "iigo",
+        "iconURL": "https://cdn.discordapp.com/avatars/408678153041739778/d993345bb6366d6711050b874d1a51ef.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7480,
+      "canDownload": true,
+      "hash": "a5069a2a469b37099fb62e4620daa3f3316592364241d02701cdf507684b0e12",
+      "path": "attachments/VBS010_simple_cycvar_v1_0_iigo.litematic",
+      "litematic": {
+        "size": "7x12x35",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact (3x7x12 slice) hopper speed cyclical variable sorter that splits and merges a batch of mixed boxes while producing minimal partial boxes. Ready to use with a cubic footprint.",
+    "features": [
+      "3x7x12 slice dimensions",
+      "54 box batch size",
+      "Handles empty boxes, 64 unstackables, 16 unstackables, and unstackable items",
+      "Can pause to stop new cycles from starting",
+      "Will not start a cycle without sufficient empty boxes",
+      "isActive readout",
+      "Empty boxes early exit when entering unset slice",
+      "Empty box check integrated with end slice",
+      "Ideal output (minimal partial boxes)",
+      "Fully hopper unlocked",
+      "Nether compatible",
+      "29 box buffer between slices"
+    ],
+    "considerations": [
+      "Empty boxes and unstackable items share a output chest",
+      "Only input at most 54 boxes in each batch; use the isActive readout for batching inputs",
+      "Pause may take some time to occur since it will finish current cycle; use isActive to determine when safe to unload",
+      "If using pause, take input batching into account since buffer will still have items in it but isActive will read false",
+      "Only input boxes into the input or equivalent hopper line",
+      "No overflow protection on output chests; ensure that they do not back up into slices to prevent errors and item loss",
+      "Item count in hopper clock is dependent on number of slices"
+    ],
+    "instructions": [
+      "Use the isActive readout for batching inputs (input at most 54 boxes in each batch).",
+      "If pausing, use isActive to determine when it is safe to unload (pause finishes the current cycle).",
+      "Avoid output chest back-ups into slices to prevent errors and item loss.",
+      "Only input boxes into the input or equivalent hopper line."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Cyclical variable sorter",
+      "id": "1460469722234749123",
+      "url": "https://discord.com/channels/1375556143186837695/1460469722234749123/1460469724369387550",
+      "matches": [
+        "cyclical variable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Ideal box output",
+      "id": "1460470569966374956",
+      "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
+      "matches": [
+        "minimal partial boxes",
+        "Ideal output"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1517738568137576499",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1517738580775141386",
+      "1517738581542834216"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1517738568137576499",
+    "uploadMessageId": "1517738566623432774"
+  },
+  "archivedAt": 1781927468801,
+  "updatedAt": 1781927468801,
+  "num_comments": 0
+}
