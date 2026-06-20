@@ -24,4 +24,4 @@ Storage input system based of [PI002 Binned Storage Input](https://discord.com/c
 - Basil: Contributed to component
 
 ## Resources
-- [PI006_ultimate-input_v1.0.litematic](attachments/PI006_ultimate-input_v1.0.litematic): MC 1.20.1, Size 7x10x6 blocks
+- [PI006_ultimate-input_v1.1.litematic](attachments/PI006_ultimate-input_v1.1.litematic): MC 1.20.1, Size 7x10x6 blocks
