@@ -39,81 +39,87 @@
   ],
   "images": [
     {
-      "id": "1387094140344340521",
-      "name": "area_render_81_.png",
+      "id": "1519097945977524345",
+      "name": "pyrabulk_slice.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140344340521/area_render_81_.png?ex=685c1796&is=685ac616&hm=1a56e24d96e038885609ccbcc31e441d9134b36d0c1047965e2b067a3d4e68aa&",
-      "description": "",
-      "canDownload": true,
-      "width": 725,
-      "height": 800,
-      "path": "images/area_render_81_.png",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1519097945977524345/pyrabulk_slice.png?ex=6a3c51b5&is=6a3b0035&hm=1b3fdf4df74ed7b9e3885554e87c44759db215c508d04a398116fbc5a5b97758&",
+      "timestamp": 1782251573938,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1750779413000,
-      "hash": "210ea5dba7d5ff2e784d3a4d2faa357400a6d5464d313bdba4b86843d7c8d17b"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 260781,
+      "canDownload": true,
+      "width": 977,
+      "height": 1200,
+      "path": "images/pyrabulk_slice.png",
+      "hash": "c47c7aa5ffba31b01286d36e9dd333cd401ff97f26a4c41a629396ae0d8f5d8b",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1387094139996209163/1519098022573641928/1519097945977524345-pyrabulk_slice.png?ex=6a3c51c8&is=6a3b0048&hm=e21d89a266d61c1dc2d70b9a6af3c8156592daf00631cd9092ad64a4d0dcb366&"
     },
     {
-      "id": "1387094140793262190",
-      "name": "area_render_80_.png",
+      "id": "1519097945595711508",
+      "name": "pyrabulk_render.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140793262190/area_render_80_.png?ex=685c1796&is=685ac616&hm=f0aaaedec4b9ee106bed836fe2f2ba1e5c6053a1dc6ca47a789521477fecd901&",
-      "description": "",
-      "canDownload": true,
-      "width": 730,
-      "height": 800,
-      "path": "images/area_render_80_.png",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1519097945595711508/pyrabulk_render.png?ex=6a3c51b5&is=6a3b0035&hm=b24655db0f015c756068200635693c912c75c5fcb61e75664d3371c846c71a15&",
+      "timestamp": 1782251573938,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1750779413000,
-      "hash": "c9f77d82130bc3b50ebc7ff1d92fb1a478f08414def00479cfb01213a88bf92a"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 711658,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1151,
+      "path": "images/pyrabulk_render.png",
+      "hash": "e65b126157fbc20e4d8cb73ff730b8d4fc94596c18baff5f6501d79b3926bceb",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1387094139996209163/1519098022838140958/1519097945595711508-pyrabulk_render.png?ex=6a3c51c8&is=6a3b0048&hm=bbd60ec69ba1fa921cb51161b2e2aa9ac57fbbbd175ea3756a0ca7e8e29da0df&"
     }
   ],
   "attachments": [
     {
-      "id": "1387094141166682222",
-      "name": "BH005_Pyra_Quad_Bulk.litematic",
+      "id": "1519097946250018916",
+      "name": "BH005_PyraLeft_1.1mil_Quad_Bulk_Storage.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094141166682222/Pyra_Quad_Bulk.litematic?ex=685c1796&is=685ac616&hm=ddf119016124ce589502b15e60225e9f0be1b82c38bed8bae55446bee6f4a979&",
-      "description": "",
-      "canDownload": true,
-      "litematic": {
-        "size": "35x46x21",
-        "version": "1.19.2"
-      },
-      "path": "attachments/BH005_Pyra_Quad_Bulk.litematic",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1519097946250018916/PyraLeft_1.1mil_Quad_Bulk_Storage.litematic?ex=6a3c51b5&is=6a3b0035&hm=ea82adf478b830cdc3cfd200427f9a5bed2b04727f88afde128ba775d5877492&",
+      "timestamp": 1782251573938,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1750779413000,
-      "size": 41655,
-      "hash": "f7935f89dad50bbc34fe6bb3a85d16ec80c18239dc35c9cff10ffcc02b425492"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 49204,
+      "canDownload": true,
+      "hash": "d9c7cc9c5605ab28cb5c4c997d766cfc78c110ddad3d92c3964ee4e4192ea68e",
+      "path": "attachments/BH005_PyraLeft_1.1mil_Quad_Bulk_Storage.litematic",
+      "litematic": {
+        "size": "29x36x36",
+        "version": "1.21.1"
+      }
     }
   ],
   "records": {
     "description": "Quad bulk hall design has 4 box displays per slice and 4 box sorters.",
     "features": [
-      "FHL",
-      "Sticks 2 blocks from both sides",
       "4 bulk silos/slice",
-      "Nice smart dropper turns",
-      "Global box placement",
-      "Slice capacity: Top: 1.564 mil Top: 1.594 mil",
-      "Size for 16 slices: 35x39x20"
-    ],
-    "considerations": [
-      "Lot of inventory prefilling"
-    ],
-    "notes": ""
+      "1.1 mil/slice storage capacity:",
+      "Global box placement"
+    ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -130,8 +136,7 @@
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
-        "slice",
-        "Slice"
+        "slice"
       ]
     },
     {
@@ -161,11 +166,11 @@
       "1388318030949253215"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318028197789766",
-    "uploadMessageId": "1509745343242436728",
+    "uploadMessageId": "1519098754685210654",
     "attachmentMessageId": "1388196474797559951",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388318028197789766/1388318028416159877/area_render_81_.png?ex=69b2b42b&is=69b162ab&hm=90e0e8dc75eda30247693e812df4cbb2d3770fe9f18022852dad3477fd6182d4&"
   },
   "archivedAt": 1751042228343,
-  "updatedAt": 1751042228343,
+  "updatedAt": 1782251765713,
   "num_comments": 0
 }

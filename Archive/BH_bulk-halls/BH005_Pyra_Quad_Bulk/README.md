@@ -1,5 +1,5 @@
 # Pyra Quad Bulk
-<img alt="area_render_81_.png" src="images/area_render_81_.png?raw=1" height="300px">
+<img alt="pyrabulk_slice.png" src="images/pyrabulk_slice.png?raw=1" height="300px">
 
 **Authors:** *PyraLeft*
 
@@ -11,18 +11,12 @@
 
 Quad bulk hall design has 4 box displays per slice and 4 box sorters.
 ## Features
-- FHL
-- Sticks 2 blocks from both sides
 - 4 bulk silos/slice
-- Nice smart dropper turns
+- 1.1 mil/slice storage capacity:
 - Global box placement
-- Slice capacity: Top: 1.564 mil Top: 1.594 mil
-- Size for 16 slices: 35x39x20
-## Considerations
-- Lot of inventory prefilling
 
 ## Other Images
-<img src="images/area_render_80_.png?raw=1" height="300px">
+<img src="images/pyrabulk_render.png?raw=1" height="300px">
 
 ## Resources
-- [BH005_Pyra_Quad_Bulk.litematic](attachments/BH005_Pyra_Quad_Bulk.litematic): MC 1.19.2, Size 35x46x21 blocks
+- [BH005_PyraLeft_1.1mil_Quad_Bulk_Storage.litematic](attachments/BH005_PyraLeft_1.1mil_Quad_Bulk_Storage.litematic): MC 1.21.1, Size 29x36x36 blocks
