@@ -1,0 +1,25 @@
+{
+  "id": "1476697525275856996",
+  "terms": [
+    "Double threshold",
+    "Karto Palla logic"
+  ],
+  "definition": "A alternate approach to Palla Logic where rather than using a readout and comparing it to a single value that simply checks if X>B this instead we check if the Signal strength is greater than the 1st threshold(A) and if it is we begin loading boxes. we then check if it is greater than the second threshold (B) and if it is we then begin loading item again. this achieved a \"Ideal\" user experience were you always have loose items in the chest",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1476697525275856996",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1476697525275856996/1476697527255437476",
+  "status": "APPROVED",
+  "statusMessageID": "1476697527255437476",
+  "updatedAt": 1782785060617,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Palla logic",
+      "id": "1476690524344680672",
+      "url": "https://discord.com/channels/1375556143186837695/1476690524344680672/1476690525922001013",
+      "matches": [
+        "Palla Logic"
+      ]
+    }
+  ],
+  "referencedBy": []
+}
