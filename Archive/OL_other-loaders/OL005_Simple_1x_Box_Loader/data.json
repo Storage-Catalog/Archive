@@ -41,7 +41,7 @@
   "images": [
     {
       "id": "1396045652047429672",
-      "name": "area_render_60_.png",
+      "name": "simple_loader.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045652047429672/area_render_60_.png?ex=687ca854&is=687b56d4&hm=0707ef12223b7c8401ec42a5c9afe395f0274ce013e34265c4df5727bf0204d4&",
       "description": "",
@@ -52,15 +52,15 @@
         "username": "Unknown"
       },
       "timestamp": 1752913620000,
-      "path": "images/area_render_60_.png",
+      "path": "images/simple_loader.png",
       "hash": "1cd691f10af45eca1a83db7a59d7af9cd7fe1fa75c5f324729491b76b671bccf"
     },
     {
       "id": "1396045658032570389",
-      "name": "area_render_61_.png",
+      "name": "simple_loader_2x.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658032570389/area_render_61_.png?ex=687ca856&is=687b56d6&hm=25d055578bd3b1e03d6045c32e8b57992778d58d17be138accd176066dab8413&",
-      "description": "",
+      "description": "2x variant",
       "canDownload": true,
       "source": "MessageAttachment",
       "author": {
@@ -68,15 +68,15 @@
         "username": "Unknown"
       },
       "timestamp": 1752913620000,
-      "path": "images/area_render_61_.png",
+      "path": "images/simple_loader_2x.png",
       "hash": "4a33c84d3c17788d5ecf0b95018a387abc30d2544c177dc9dafc54e6f784917e"
     },
     {
       "id": "1396045658460393493",
-      "name": "area_render_59_.png",
+      "name": "topdispenser.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658460393493/area_render_59_.png?ex=687ca856&is=687b56d6&hm=663b2093d6353c3fef6cc81cec298caed15b522806ff01cb06a7be21b91ca933&",
-      "description": "",
+      "description": "Top dispenser variant",
       "canDownload": true,
       "source": "MessageAttachment",
       "author": {
@@ -84,15 +84,15 @@
         "username": "Unknown"
       },
       "timestamp": 1752913620000,
-      "path": "images/area_render_59_.png",
+      "path": "images/topdispenser.png",
       "hash": "35b40ea46b627dfcb79be65ae5119b8d29f3e4be94a76fa2b2c31c47e2eeead5"
     },
     {
       "id": "1396051402186559590",
-      "name": "area_render_63_.png",
+      "name": "thin.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396051402186559590/area_render_63_.png?ex=687cadaf&is=687b5c2f&hm=011ca9f1c0598af47f19850b71a07e027d8613ec4ab67ebd50bf124536db1908&",
-      "description": "",
+      "description": "Thin variant",
       "canDownload": true,
       "width": 688,
       "height": 800,
@@ -102,11 +102,108 @@
         "username": "Unknown"
       },
       "timestamp": 1752914991000,
-      "path": "images/area_render_63_.png",
+      "path": "images/thin.png",
       "hash": "7643c505d22ab15e86f6bb9e46c72603854444288c140fb2d20fc109d008aa27"
     }
   ],
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "1521571600166686951",
+      "name": "OL005_simple_1x_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1521571600166686951/simple_1x_loader.litematic?ex=6a45517a&is=6a43fffa&hm=d38754df6895601086100f60c19497174dedc660a0409e4724dd242fbdb5665e&",
+      "timestamp": 1782841339027,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "1x loader (1st image)",
+      "size": 1068,
+      "canDownload": true,
+      "hash": "715d936acc78bf80e23505fcd383a699aa58d41388f7152e170430a6166462bf",
+      "path": "attachments/OL005_simple_1x_loader.litematic",
+      "litematic": {
+        "size": "5x3x3",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1521571599810166944",
+      "name": "OL005_simple_2x_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1521571599810166944/simple_2x_loader.litematic?ex=6a45517a&is=6a43fffa&hm=577142d0514d2402941b9bbf62bb86ae4d36054ef09b55adfe9be3f90b187426&",
+      "timestamp": 1782841339027,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "2x loader variant (image 2)",
+      "size": 1098,
+      "canDownload": true,
+      "hash": "e393998fa7355d295da7a96a3ef3d9e5752f1f68cf9ebbf4341760dfb452ef5f",
+      "path": "attachments/OL005_simple_2x_loader.litematic",
+      "litematic": {
+        "size": "5x4x3",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1521571599537541372",
+      "name": "OL005_simple_1x_loader_topdispenser.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1521571599537541372/simple_1x_loader_topdispenser.litematic?ex=6a45517a&is=6a43fffa&hm=05162ff356c54d484bf9a940c7e082978c265b94738292d082043e696f148dd0&",
+      "timestamp": 1782841339027,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Top dispenser variant (image 3)",
+      "size": 1061,
+      "canDownload": true,
+      "hash": "9aed115689db54d88b803b95a853d8255f75b472f1425197a36061620a3cce5d",
+      "path": "attachments/OL005_simple_1x_loader_topdispenser.litematic",
+      "litematic": {
+        "size": "5x5x3",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1521571599289942026",
+      "name": "OL005_simple_1x_loader_thin.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1521571599289942026/simple_1x_loader_thin.litematic?ex=6a45517a&is=6a43fffa&hm=f2fc227bbb3350d31770bd9932d522142756e399cffafd81b37bc7630041cffb&",
+      "timestamp": 1782841339027,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Thin variant (image 4)",
+      "size": 1026,
+      "canDownload": true,
+      "hash": "34240ecfc86ff54918b2d2b514b5a725b7294bc0f09c0a68b15f9d682facb332",
+      "path": "attachments/OL005_simple_1x_loader_thin.litematic",
+      "litematic": {
+        "size": "5x4x2",
+        "version": "1.21.4"
+      }
+    }
+  ],
   "records": {
     "description": "Very simple and cheap non-tileable 1x loader",
     "features": [
@@ -149,12 +246,15 @@
   "post": {
     "threadId": "1482969052669415495",
     "forumId": "1375557962675912865",
-    "continuingMessageIds": [],
+    "continuingMessageIds": [
+      "1521572226321748068",
+      "1521572227194032370"
+    ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1482969052669415495",
-    "uploadMessageId": "",
+    "uploadMessageId": "1521572214334558273",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1482969052669415495/1482969057719353344/area_render_60_.png?ex=69b8e20f&is=69b7908f&hm=12859b4e2923db70ed6dd924306f4c60a0b5e6da65e4282ab2ca088310809a96&"
   },
   "archivedAt": 1752989650837,
-  "updatedAt": 1773637768913,
+  "updatedAt": 1782841484044,
   "num_comments": 0
 }
