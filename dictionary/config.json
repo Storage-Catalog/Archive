@@ -963,6 +963,15 @@
       "updatedAt": 1772483101059
     },
     {
+      "id": "1476697525275856996",
+      "terms": [
+        "Double threshold",
+        "Karto Palla logic"
+      ],
+      "summary": "A alternate approach to Palla Logic where rather than using a readout and comparing it to a single value that simply checks if X>B this instead we check if the Signal strength is greater than the 1...",
+      "updatedAt": 1782785060617
+    },
+    {
       "id": "1493155354039681224",
       "terms": [
         "Input handler"
