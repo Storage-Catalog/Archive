@@ -1,7 +1,7 @@
 # Noisy Categorizer
 <img alt="render.png" src="images/render.png?raw=1" height="300px">
 
-**Authors:** *Саня, (っ◔◡◔)っ ♥ Naijuunitengo ♥*
+**Authors:** *prostosania3171, (っ◔◡◔)っ ♥ Naijuunitengo ♥*
 
 **Endorsed by:** *Moonyinspired 🇧🇷*
 

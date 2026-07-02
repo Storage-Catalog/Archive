@@ -10,10 +10,9 @@
   ],
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "480650963317948416",
       "username": "prostosania3171",
-      "displayName": "Саня",
       "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
     },
     {
