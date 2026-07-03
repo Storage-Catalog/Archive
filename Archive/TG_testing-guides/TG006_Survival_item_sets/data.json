@@ -1,0 +1,129 @@
+{
+  "id": "1521757629461041223",
+  "name": "Survival item sets",
+  "code": "TG006",
+  "reservedCodes": [
+    "TG006"
+  ],
+  "pastPostThreadIds": [
+    "1522482823909474446"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "369743662726250499",
+      "username": "sneakysquid4344",
+      "displayName": "Sneaky",
+      "iconURL": "https://cdn.discordapp.com/avatars/369743662726250499/b6592000ac228fe1f03bf6b817aaaf32.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465495569634951270",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1521758162640965652",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1521757629461041223/1521758162640965652/image.png?ex=6a45ff3a&is=6a44adba&hm=b908e833e703f3eeeea11de66dc3b5dd7cbe2032215330667f9a3a7d17ec6f34&",
+      "timestamp": 1782885818961,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "369743662726250499",
+        "username": "sneakysquid4344",
+        "displayName": "Sneaky",
+        "iconURL": "https://cdn.discordapp.com/avatars/369743662726250499/b6592000ac228fe1f03bf6b817aaaf32.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 35183,
+      "canDownload": true,
+      "width": 625,
+      "height": 1000,
+      "path": "images/image.png",
+      "hash": "2c27cbe74b8eacea58ba363801ec5427ffa4a081d34fed8d5702bcf1730c60f4",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1521757629461041223/1521758228567035964/1521758162640965652-image.png?ex=6a45ff4a&is=6a44adca&hm=bc426885cdcf166b18f76960833b0b4ecc7dc111f7446a9e420e7c9a72d54f51&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1521757629716631603",
+      "name": "TG006_1728_furnace_leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1521757629461041223/1521757629716631603/1728_furnace_leftovers.litematic?ex=6a45febb&is=6a44ad3b&hm=63d51eca0fbfc797001d4b48a27fa53353beccd1e65f53cae5b04f9621a92016&",
+      "timestamp": 1782885691753,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "369743662726250499",
+        "username": "sneakysquid4344",
+        "displayName": "Sneaky",
+        "iconURL": "https://cdn.discordapp.com/avatars/369743662726250499/b6592000ac228fe1f03bf6b817aaaf32.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1382,
+      "canDownload": true,
+      "hash": "a8b787ad44dcfb0b43d3ec44eac530c09191281dd1c45ea2b08aef85d298bf1f",
+      "path": "attachments/TG006_1728_furnace_leftovers.litematic",
+      "litematic": {
+        "size": "1x1x1",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1521757630232658010",
+      "name": "TG006_ftl_leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1521757629461041223/1521757630232658010/ftl_leftovers.litematic?ex=6a45febb&is=6a44ad3b&hm=50677f5d01a482441e72f2bfff7fa7cfecb2e4bb8b5b591f067766fd6189bb48&",
+      "timestamp": 1782885691753,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "369743662726250499",
+        "username": "sneakysquid4344",
+        "displayName": "Sneaky",
+        "iconURL": "https://cdn.discordapp.com/avatars/369743662726250499/b6592000ac228fe1f03bf6b817aaaf32.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Leftovers from 836 FTL v2 from garlic bread. Contains full single item type boxes.",
+      "size": 2833,
+      "canDownload": true,
+      "hash": "d95cbe6bc52e222504cb53428f4449ffdb1bcc5959b771e99a53f00b33271584",
+      "path": "attachments/TG006_ftl_leftovers.litematic",
+      "litematic": {
+        "size": "2x1x1",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Leftover item sets collected from real survival projects.",
+    "notes": "There is some full single item type shulker boxes which can easily be removed."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1522482823909474446",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1522482833086615622"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1522482823909474446",
+    "uploadMessageId": "1522482822680543292"
+  },
+  "archivedAt": 1783058590258,
+  "updatedAt": 1783058590258,
+  "num_comments": 0
+}

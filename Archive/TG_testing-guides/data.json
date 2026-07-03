@@ -4,7 +4,7 @@
   "code": "TG",
   "category": "Other Resources",
   "description": "Reference material for how to test things thouroughly",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1388624919306305636",
@@ -30,6 +30,11 @@
       "id": "1467278334319788215",
       "code": "TG005",
       "path": "TG005_Nether_Digsort_Itemset"
+    },
+    {
+      "id": "1521757629461041223",
+      "code": "TG006",
+      "path": "TG006_Survival_item_sets"
     }
   ]
 }
