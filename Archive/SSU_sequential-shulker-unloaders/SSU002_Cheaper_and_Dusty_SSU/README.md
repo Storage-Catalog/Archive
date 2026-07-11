@@ -1,9 +1,9 @@
 # Cheaper and Dusty SSU
 <img alt="Slice_Back.png" src="images/Slice_Back.png?raw=1" height="300px">
 
-**Authors:** *Christone*
+**Authors:** *glidingmonkey*
 
-**Endorsed by:** *Christone*
+**Endorsed by:** *glidingmonkey*
 
 **Tags:** *Functional*
 

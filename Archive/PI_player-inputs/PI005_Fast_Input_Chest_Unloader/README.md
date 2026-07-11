@@ -1,9 +1,9 @@
 # Fast Input Chest Unloader
 <img alt="Wall_UI.png" src="images/Wall_UI.png?raw=1" height="300px">
 
-**Authors:** *Christone*
+**Authors:** *glidingmonkey*
 
-**Endorsed by:** *Christone*
+**Endorsed by:** *glidingmonkey*
 
 **Tags:** *Functional*
 

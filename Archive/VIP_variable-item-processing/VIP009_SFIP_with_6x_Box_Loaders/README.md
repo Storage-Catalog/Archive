@@ -3,13 +3,13 @@
 
 **Authors:** *mikaace*
 
-**Endorsed by:** *Christone*
+**Endorsed by:** *glidingmonkey*
 
 **Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1502331348822786219)
 
-This variable item processor sorts item entities into ideal output split boxes. This is an adjustment to the original system by Christone to make it work in newer versions of the game, removing overstacked items in the filters and fixing the dolphin cage.
+This variable item processor sorts item entities into ideal output split boxes. This is an adjustment to the original system by glidingmonkey to make it work in newer versions of the game, removing overstacked items in the filters and fixing the dolphin cage.
 ## Features
 - input: item entity pile, empty boxes
 - output: single item type boxes, unstackable items
