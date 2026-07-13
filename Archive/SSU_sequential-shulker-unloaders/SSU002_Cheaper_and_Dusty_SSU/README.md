@@ -1,9 +1,9 @@
 # Cheaper and Dusty SSU
-<img alt="Slice_Back.png" src="images/Slice_Back.png?raw=1" height="300px">
+<img alt="Material_Reduction.png" src="images/Material_Reduction.png?raw=1">
 
 **Authors:** *glidingmonkey*
 
-**Endorsed by:** *glidingmonkey*
+**Endorsed by:** *Andrews54757*
 
 **Tags:** *Functional*
 
@@ -24,14 +24,10 @@ A Sequential Shulker Unloader optimized to be small and cheap by using more reds
 4. Input mixed boxes and wait for them to process
 
 ## Other Images
-<img src="images/Slice_Front.png?raw=1" height="300px">
+<img src="images/area_render_slice_fixed.png?raw=1" height="300px">
 
-<img src="images/Tiled_Front.png?raw=1" height="300px">
-
-<img src="images/Tiled_Back.png?raw=1" height="300px">
-
-<img src="images/Material_Comparison.png?raw=1">
+<img src="images/area_render_tiled_fixed.png?raw=1" height="300px">
 
 ## Resources
-- [SSU002_Cheap_SSU_Tiled.litematic](attachments/SSU002_Cheap_SSU_Tiled.litematic): MC 1.21.4, Size 38x9x7 blocks
-- [SSU002_Cheap_SSU_2.litematic](attachments/SSU002_Cheap_SSU_2.litematic): MC 1.21.4, Size 2x8x7 blocks
+- [SSU002_Cheap_SSU_slice_fixed.litematic](attachments/SSU002_Cheap_SSU_slice_fixed.litematic): MC 1.21.4, Size 2x9x7 blocks
+- [SSU002_Cheap_SSU_tiled_fixed.litematic](attachments/SSU002_Cheap_SSU_tiled_fixed.litematic): MC 1.21.4, Size 12x9x7 blocks

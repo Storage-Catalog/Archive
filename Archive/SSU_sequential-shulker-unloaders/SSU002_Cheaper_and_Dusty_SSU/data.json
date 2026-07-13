@@ -13,6 +13,7 @@
       "type": "discord-external",
       "id": "688456529338433611",
       "username": "glidingmonkey",
+      "displayName": "Christone",
       "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
     },
     {
@@ -28,10 +29,11 @@
   ],
   "endorsers": [
     {
-      "type": "discord-external",
-      "id": "688456529338433611",
-      "username": "glidingmonkey",
-      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     }
   ],
   "tags": [
@@ -42,11 +44,11 @@
   ],
   "images": [
     {
-      "id": "1509803178273538059",
-      "name": "Slice_Back.png",
+      "id": "1524095681940160612",
+      "name": "Material_Reduction.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509803178273538059/area_render_30_.png?ex=6a1a8148&is=6a192fc8&hm=04028697cf764bae2ebb1e0997479d9654e90db51e771887046d5690199ca6e9&",
-      "timestamp": 1780035528633,
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1524095681940160612/Material_Reduction.png?ex=6a4f28f6&is=6a4dd776&hm=c47e8ce5f00f7fbf28ef95033a0d8a8e9537ce3cd63a9612f53919e07025abef&",
+      "timestamp": 1783443126967,
       "author": {
         "type": "discord-in-guild",
         "id": "688456529338433611",
@@ -56,63 +58,20 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 210841,
-      "canDownload": true,
-      "width": 1024,
-      "height": 1200,
-      "path": "images/Slice_Back.png",
-      "hash": "76c1ba19b904c92a440592b7e289c9a26ecf3a6c206131647d8b397bd4557756"
-    },
-    {
-      "id": "1509803177757773885",
-      "name": "Slice_Front.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509803177757773885/area_render_29_.png?ex=6a1a8148&is=6a192fc8&hm=97e2e5aaba06e441c36e94e4877d7fc268183b9649dbaafb360e35cf710fb873&",
-      "timestamp": 1780035528633,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "688456529338433611",
-        "username": "glidingmonkey",
-        "displayName": "Christone",
-        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 184847,
-      "canDownload": true,
-      "width": 1014,
-      "height": 1200,
-      "path": "images/Slice_Front.png",
-      "hash": "ac7ecb90703107463bb60954e25369640ac341b2f1352dc0d301dbe5bb5b5db6"
-    },
-    {
-      "id": "1509700670515839026",
-      "name": "Tiled_Front.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700670515839026/area_render_34_.png?ex=6a1a21d0&is=6a18d050&hm=b5f1a3149671398aee83e40486949c678127c0d5368a17551fca8d84e527c0dc&",
-      "timestamp": 1780011088395,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "688456529338433611",
-        "username": "glidingmonkey",
-        "displayName": "Christone",
-        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 213672,
+      "size": 55826,
       "canDownload": true,
       "width": 1200,
-      "height": 418,
-      "path": "images/Tiled_Front.png",
-      "hash": "b285ebdc1b3eeb565d1a35f784195072bfe42cc315be6a46c9487997281fe71a"
+      "height": 288,
+      "path": "images/Material_Reduction.png",
+      "hash": "88db1258e87f91c5d202111cb62b0a9e4df5d349cac47f58e5a487dedba37954",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509700669098164444/1524311096184406178/1524095681940160612-material_reduction.png?ex=6a4f48d5&is=6a4df755&hm=17e7aaee974611cc5bb54c1f80a1f7cbb2b16be59dfbb46b95685512879df97c&"
     },
     {
-      "id": "1509700670918361139",
-      "name": "Tiled_Back.png",
+      "id": "1523856976055111721",
+      "name": "area_render_slice_fixed.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700670918361139/area_render_33_.png?ex=6a1a21d0&is=6a18d050&hm=d98f29294b52dec14b3a87d7c69580fe505d2c422d3cb76f49cf1188c9bf21d6&",
-      "timestamp": 1780011088395,
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1523856976055111721/area_render_slice_fixed.png?ex=6a4ef366&is=6a4da1e6&hm=816043ee3ce78d4e7bd377a98f70d0252b6ab09b5065596d3a6d6b79b63cb5ae&",
+      "timestamp": 1783386215396,
       "author": {
         "type": "discord-in-guild",
         "id": "688456529338433611",
@@ -122,43 +81,45 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 197192,
+      "size": 188688,
+      "canDownload": true,
+      "width": 1023,
+      "height": 1200,
+      "path": "images/area_render_slice_fixed.png",
+      "hash": "a6e637bdda434a3abe8f3522cc3113f9fca36c7789d27bdef16adf98ef2828c9",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509700669098164444/1524311096381542560/1523856976055111721-area_render_slice_fixed.png?ex=6a4f48d5&is=6a4df755&hm=37f3700af0aa7c3ca730acce43344fd1c0d19a128a3430a35744cdafb90bfc9a&"
+    },
+    {
+      "id": "1523856976571007146",
+      "name": "area_render_tiled_fixed.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1523856976571007146/area_render_tiled_fixed.png?ex=6a4ef367&is=6a4da1e7&hm=b233f332f6320dfbd199bac20da78715594a9cba1ff4efd488317e1081795a9c&",
+      "timestamp": 1783386215396,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 293455,
       "canDownload": true,
       "width": 1200,
-      "height": 432,
-      "path": "images/Tiled_Back.png",
-      "hash": "359eeb2a2b1514b69b99a7de985381ae453a37308acce3d5824fd8eaa78b45cc"
-    },
-    {
-      "id": "1509700671727730839",
-      "name": "Material_Comparison.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700671727730839/Material_Comparison.png?ex=6a1a21d1&is=6a18d051&hm=bb66383656ad880925e8014d28d825895050748677f6dddf667d1511e1e767cd&",
-      "timestamp": 1780011088395,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "688456529338433611",
-        "username": "glidingmonkey",
-        "displayName": "Christone",
-        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 33432,
-      "canDownload": true,
-      "width": 1176,
-      "height": 270,
-      "path": "images/Material_Comparison.png",
-      "hash": "9bee31afd5f24d8bbaadc2b9ae4b0dbe70c3d3e7fa22b73f2064e90f0d44d166"
+      "height": 924,
+      "path": "images/area_render_tiled_fixed.png",
+      "hash": "7aff97cb789a4701efa84bfe72ce797669d51619b8cb61ed4e66dacae0ccab0f",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509700669098164444/1524311096599511110/1523856976571007146-area_render_tiled_fixed.png?ex=6a4f48d5&is=6a4df755&hm=4a26243dcbdc7bd81297a22fc37bb78759511cc171a670b44aad5d5473cdec78&"
     }
   ],
   "attachments": [
     {
-      "id": "1509700671430197339",
-      "name": "SSU002_Cheap_SSU_Tiled.litematic",
+      "id": "1523856977313271849",
+      "name": "SSU002_Cheap_SSU_slice_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700671430197339/Cheap_SSU_Tiled_-_with_end_mixed_loader.litematic?ex=6a1a21d0&is=6a18d050&hm=45be68185c899e431a4f557a5626f358ab672e5ebaa21f00e610adb341b258b1&",
-      "timestamp": 1780011088395,
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1523856977313271849/Cheap_SSU_slice_fixed.litematic?ex=6a4ef367&is=6a4da1e7&hm=735b1ff53f51df9efd6c26ec9e1a7f0cc74e13ffab356b07d27d7d3437f34ef3&",
+      "timestamp": 1783386215396,
       "author": {
         "type": "discord-in-guild",
         "id": "688456529338433611",
@@ -168,21 +129,21 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 5057,
+      "size": 1324,
       "canDownload": true,
-      "hash": "f60e250f1815b9c299b24a60e6fba222b3cb0dc9f7fe5a95da83712e1a2566cd",
-      "path": "attachments/SSU002_Cheap_SSU_Tiled.litematic",
+      "hash": "fafdeaa2760ee1755b646d6f5c62f7ab5b9aa5fb10b7593f11f870b9bd45ed42",
+      "path": "attachments/SSU002_Cheap_SSU_slice_fixed.litematic",
       "litematic": {
-        "size": "38x9x7",
+        "size": "2x9x7",
         "version": "1.21.4"
       }
     },
     {
-      "id": "1509803178554822666",
-      "name": "SSU002_Cheap_SSU_2.litematic",
+      "id": "1523856977594155099",
+      "name": "SSU002_Cheap_SSU_tiled_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509803178554822666/Cheap_SSU_2.litematic?ex=6a1a8148&is=6a192fc8&hm=c0652ee8c68a86d80bf57a1393f432fa7ccddb1d38c7eb8e3e1dead684971010&",
-      "timestamp": 1780035528633,
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1523856977594155099/Cheap_SSU_tiled_fixed.litematic?ex=6a4ef367&is=6a4da1e7&hm=03dfb2d2e253faa88090bbd036d7bcdb8a2c5d3951edcadf050a4303d54ff3c0&",
+      "timestamp": 1783386215396,
       "author": {
         "type": "discord-in-guild",
         "id": "688456529338433611",
@@ -192,12 +153,12 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 1271,
+      "size": 3032,
       "canDownload": true,
-      "hash": "7c251bc7f29292296123d8d75833038b5e1c536cb0c6e238e040e6cdf5220410",
-      "path": "attachments/SSU002_Cheap_SSU_2.litematic",
+      "hash": "b74d24e14d2fbe5d44590f67e420bfbd512b1037c10e59e8d8b8f3f03a54bb76",
+      "path": "attachments/SSU002_Cheap_SSU_tiled_fixed.litematic",
       "litematic": {
-        "size": "2x8x7",
+        "size": "12x9x7",
         "version": "1.21.4"
       }
     }
@@ -296,10 +257,10 @@
       "1512574594823880885"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1509705239115333685",
-    "uploadMessageId": "1509804260798365698",
+    "uploadMessageId": "1526061729069662228",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1509705239115333685/1509804267370709123/Slice_Back.png?ex=6a1a824c&is=6a1930cc&hm=bbd6310c038d95550c81ca9b1f0497b8b92c3d5c4ae4f6648cb367e23972ce4b&"
   },
   "archivedAt": 1780012170315,
-  "updatedAt": 1780035786106,
+  "updatedAt": 1783911868155,
   "num_comments": 0
 }
