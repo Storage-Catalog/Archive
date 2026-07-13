@@ -4,7 +4,7 @@
   "code": "CH",
   "category": "Storage Halls & UI",
   "description": "Chest halls",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1386233426826231918",
@@ -55,6 +55,11 @@
       "id": "1496552206885720194",
       "code": "CH010",
       "path": "CH010_Atlas_Square_UI_1wABt_8_Item_2dc_Chest_Hall"
+    },
+    {
+      "id": "1514716671372169296",
+      "code": "CH011",
+      "path": "CH011_Atlas_UI_FHL_CH_2dc_8item"
     }
   ]
 }

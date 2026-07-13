@@ -1,0 +1,169 @@
+{
+  "id": "1514716671372169296",
+  "name": "Atlas UI FHL CH 2dc 8item",
+  "code": "CH011",
+  "reservedCodes": [
+    "CH011"
+  ],
+  "pastPostThreadIds": [
+    "1526077102661697618"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "881656808647852062",
+      "username": "nf_atlas",
+      "displayName": "storage tech larper",
+      "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    },
+    {
+      "id": "1465491132455588024",
+      "name": "Functional"
+    },
+    {
+      "id": "1386099807206244543",
+      "name": "8 Chests"
+    }
+  ],
+  "images": [
+    {
+      "id": "1514716671636537455",
+      "name": "image67.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1514716671372169296/1514716671636537455/image4.png?ex=6a2c6154&is=6a2b0fd4&hm=2a7bc1e7c1e7650b4d69bd1df86ce6b90df66f1a4aa55cdc2f539bbbc8021177&",
+      "timestamp": 1781206996530,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "displayName": "atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 116866,
+      "canDownload": true,
+      "width": 1000,
+      "height": 714,
+      "path": "images/image67.png",
+      "hash": "c1d52541a36a99f14766f285bc8456c1d0ab30411ce438497549c722d44b7648",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1514716671372169296/1514716917040939148/1514716671636537455-image67.png?ex=6a2c618f&is=6a2b100f&hm=22a61a75352b11ccad2a018a479b2d1ba2cc50e34a70c19c98b8549f2c8f29cb&"
+    },
+    {
+      "id": "1516469911206101093",
+      "name": "image76.png",
+      "url": "https://cdn.discordapp.com/attachments/1514716671372169296/1516469911206101093/image76.png?ex=6a32c229&is=6a3170a9&hm=182aa2ad35a47327ce1bc1f17ea63bf78bd1da0828314a14127ffb64a8256e54&",
+      "timestamp": 1781625000709,
+      "author": {
+        "type": "discord-external",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1000,
+      "height": 683,
+      "size": 112577,
+      "path": "images/image76.png",
+      "hash": "257017ca86fc40005fed0969487ef4e86b3e8c5c10a714ead1752b1e7251a771",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1514716671372169296/1516469919775068441/1516469911206101093-image76.png?ex=6a32c22b&is=6a3170ab&hm=c8b0f68b36e85d9a799b33dee3d60d46d461028a84b629e07465c2b37ab92265&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1516470181139058738",
+      "name": "CH011_Atlas_UI_FHL_1wABt_2dc_8item_CH.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1514716671372169296/1516470181139058738/Atlas_UI_FHL_1wABt_2dc_8item_CH.litematic?ex=6a32c269&is=6a3170e9&hm=838767840ded19491540046595beec64fbbe708c495dbcbb256429aa4549b1fe&",
+      "timestamp": 1781625064965,
+      "author": {
+        "type": "discord-external",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "b15fa23ecc271cd91f74bab960fd630ed70e69d90edc018aaf0fc876489a0ce1",
+      "path": "attachments/CH011_Atlas_UI_FHL_1wABt_2dc_8item_CH.litematic",
+      "size": 2631,
+      "litematic": {
+        "size": "29x17x4",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "FHL Chest hall  with two double chests of storage per item type.",
+    "features": [
+      "2dc",
+      "FHL",
+      "29x17"
+    ],
+    "considerations": [
+      "30 hoppers per slice"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1526077102661697618",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1526077113713561602"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1526077102661697618",
+    "uploadMessageId": "1526077099570364537"
+  },
+  "archivedAt": 1783915530384,
+  "updatedAt": 1783915530384,
+  "num_comments": 0
+}
