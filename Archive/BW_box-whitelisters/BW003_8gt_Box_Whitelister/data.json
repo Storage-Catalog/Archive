@@ -122,11 +122,11 @@
       }
     },
     {
-      "id": "1474842935852793906",
-      "name": "BW003_8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic",
+      "id": "1526649071807500468",
+      "name": "BW003_8gt_Box_Whitelister_v3.0_FHL_and_Fill_Level_Sorter.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1474842935852793906/8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic?ex=699b5205&is=699a0085&hm=c0fdc471b3253203ed63f6cb89cf57f6ddd6874dfb3864e3f09196f140af7a86&",
-      "timestamp": 1771700357373,
+      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1526649071807500468/8gt_Box_Whitelister_v3.0_FHL_and_Fill_Level_Sorter.litematic?ex=6a57ca3e&is=6a5678be&hm=d07fbb1945dc02f27ed8e4c60825ff5e117b1e2bfbe61799772b56cdb5d1e32e&",
+      "timestamp": 1784051902576,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -135,14 +135,14 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "Fully hopperlocked and has built-in fill level sorter",
-      "size": 2472,
+      "description": "",
+      "size": 2486,
       "canDownload": true,
-      "hash": "dd506f89bff4b10569f5196cd983830d7186beb4ef9e2d1f722c5b94407ab21a",
-      "path": "attachments/BW003_8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic",
+      "hash": "0957fcc314ebae4e714e991dbd574f48375992a0b1a22c0e3406c30a61cb1fb0",
+      "path": "attachments/BW003_8gt_Box_Whitelister_v3.0_FHL_and_Fill_Level_Sorter.litematic",
       "litematic": {
         "size": "8x5x14",
-        "version": "1.21"
+        "version": "1.21.4"
       }
     }
   ],
@@ -179,10 +179,10 @@
       "1474845347707752679"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1474845341332279338",
-    "uploadMessageId": "1474845333929594940",
+    "uploadMessageId": "1526649366570471516",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1474845341332279338/1474845342351622400/fhl.png?ex=69b26682&is=69b11502&hm=f780e7fcc02f0d83b4d3ef7e387cf7d44387b0867c7ffceadc110f2497b18bae&"
   },
   "archivedAt": 1771700925712,
-  "updatedAt": 1771707861954,
+  "updatedAt": 1784051971100,
   "num_comments": 0
 }
