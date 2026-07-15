@@ -1,0 +1,310 @@
+{
+  "id": "1510575942492356658",
+  "name": "MogMIS",
+  "code": "MIS015",
+  "reservedCodes": [
+    "MIS015"
+  ],
+  "pastPostThreadIds": [
+    "1527033953092108342"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "667691671852417025",
+      "username": "luukeem",
+      "displayName": "Lukeem",
+      "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1510575942861590680",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1510575942492356658/1510575942861590680/image.png?ex=6a1d50f9&is=6a1bff79&hm=e65f36c55ea16397065998a422530741db244e86e2e20491fe3e0ca3c7fc6b24&",
+      "timestamp": 1780219769834,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 116535,
+      "canDownload": true,
+      "width": 1000,
+      "height": 625,
+      "path": "images/image.png",
+      "hash": "32583ebd68262cefeb9db2c4e27c7a77572525523be29dc16390fc725ec59820",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1510575942492356658/1510576227008774266/1510575942861590680-image.png?ex=6a1d513d&is=6a1bffbd&hm=8e52584774e1f2964ca0d8eab9674442b4670d2b8d36c096b1ecc7c1f07c246f&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1510750521449779260",
+      "name": "MIS015_MogMIS_Netherside.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1510575942492356658/1510750521449779260/MogMIS_Netherside.litematic?ex=6a1df390&is=6a1ca210&hm=c715869f4634c7970088918715f7847e3123398d40ddc1db7f19ef4d7013731e&",
+      "timestamp": 1780261391932,
+      "author": {
+        "type": "discord-external",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "22ec35a86579c4fe403f3004ebbe30537066b31f155c572bddbe5f1090bc628d",
+      "path": "attachments/MIS015_MogMIS_Netherside.litematic",
+      "size": 804,
+      "litematic": {
+        "size": "5x5x4",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "_TmjxbUwFI8",
+      "name": "MIS015_YouTube_Video__TmjxbUwFI8.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/_TmjxbUwFI8",
+      "timestamp": 1780235846699,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "MogMIS - SuperFlat Compatible Storage",
+        "author_name": "Lukeem",
+        "author_url": "https://www.youtube.com/@luukeem",
+        "thumbnail_url": "https://i.ytimg.com/vi/_TmjxbUwFI8/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    },
+    {
+      "id": "1527027879626408128",
+      "name": "MIS015_MogMIS_Assigned_v1.05.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1510575942492356658/1527027879626408128/MogMIS_Assigned_v1.05.litematic?ex=6a592b09&is=6a57d989&hm=206a4515046907c2666d27413feea5ac849b05569c798559de6b9b3c75f82bf5&",
+      "timestamp": 1784142217540,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Fully ready to build version",
+      "size": 41461,
+      "canDownload": true,
+      "hash": "33e907aff0c8a4727d975bbb7c00f605c931f9a9bacc4a28a0342b836f5a08f0",
+      "path": "attachments/MIS015_MogMIS_Assigned_v1.05.litematic",
+      "litematic": {
+        "size": "48x27x48",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1527027879915950233",
+      "name": "MIS015_MogMIS_Unassigned_v1.05.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1510575942492356658/1527027879915950233/MogMIS_Unassigned_v1.05.litematic?ex=6a592b09&is=6a57d989&hm=a146a874df4eea0cdf62c9829e1db071e071fa380abb32f5328f662e93951cc7&",
+      "timestamp": 1784142217540,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Unset filters. Perfect for personalization",
+      "size": 32122,
+      "canDownload": true,
+      "hash": "3fedb5a24ce7134c4610f87f5cf6ac4eae54cfbe846976342d8913c223678c9e",
+      "path": "attachments/MIS015_MogMIS_Unassigned_v1.05.litematic",
+      "litematic": {
+        "size": "48x27x48",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1527027880301695197",
+      "name": "MIS015_MogMIS_-_SF_Storage_v1.05.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1510575942492356658/1527027880301695197/MogMIS_-_SF_Storage_v1.05.zip?ex=6a592b09&is=6a57d989&hm=b684685ea0d5030d62f976297d094cd375e468c0ff12e694c0f9e414a2875f4c&",
+      "timestamp": 1784142217540,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2503960,
+      "canDownload": true,
+      "hash": "426e48405cb2124511453b30929bb847f9f82f32195462456b5b4dd6a3ea7e43",
+      "path": "attachments/MIS015_MogMIS_-_SF_Storage_v1.05.zip",
+      "wdls": [
+        {
+          "path": "MogMIS - SF Storage",
+          "version": "1.21.4",
+          "levelName": "MogMIS"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      },
+      "unoptimizedSize": 5845751
+    },
+    {
+      "id": "YugEuNwWaCI",
+      "name": "MIS015_YouTube_Video_YugEuNwWaCI.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/YugEuNwWaCI",
+      "timestamp": 1784143620887,
+      "author": {
+        "type": "discord-external",
+        "id": "667691671852417025",
+        "username": "luukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Discussion video featuring the storage",
+      "canDownload": false,
+      "youtube": {
+        "title": "MogMIS  ||  Lukeem",
+        "author_name": "Ragdoll Willy",
+        "author_url": "https://www.youtube.com/@RagdollWilly-f8d",
+        "thumbnail_url": "https://i.ytimg.com/vi/YugEuNwWaCI/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    }
+  ],
+  "records": {
+    "description": "A superflat compatible device made by the author with small contributions from various publicly archived components. It avoids hard items to get like ice. The schematics include both an assigned version and an unassigned one. Making your own itemlayout is highly recommended as it customizes storage to your own preferences. This storage has been used and tested in survival as well as in creative running thru the HC itemset",
+    "features": [
+      "Superflat compatible",
+      "No hard items to get like ice",
+      "64 Bulk items and 32 categories capable of sorting 54 items each",
+      "Bulk capacity: 220k",
+      "Mis capacity: 15k",
+      "Includes schematics with an assigned version and an unassigned one",
+      "Highly recommended to make your own itemlayout to customize storage"
+    ],
+    "notes": "- MIS by Rapscallion and others \n- Box Loader by PyraLeft and Eirik \n- Box Unloader by Kartoffel and SergyD. \n- Box Display is a variation of Moony's by me.\n- Chunkloader by Philgoodinator\n- Restock Station by Skyzy",
+    "instructions": [
+      "Use the schematics (which include an assigned version and an unassigned one)",
+      "Make your own itemlayout to customize storage to your own preferences",
+      "Refer to the video for more specific instructions https://youtu.be/_TmjxbUwFI8"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "Loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "Unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "Box Display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "Restock Station"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1527033953092108342",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1527033963632136202",
+      "1527033964332847115",
+      "1527033966203371600",
+      "1527033966828195992",
+      "1527033967486959756"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1527033953092108342",
+    "uploadMessageId": "1527033950638440530"
+  },
+  "archivedAt": 1784143659626,
+  "updatedAt": 1784143659626,
+  "num_comments": 0
+}
