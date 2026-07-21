@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "518210652540764161",
       "username": "humanoid_human",
+      "displayName": "Elessar",
       "iconURL": "https://cdn.discordapp.com/avatars/518210652540764161/151e22a5d2cb68c910a437b1a6dc454a.webp"
     }
   ],
