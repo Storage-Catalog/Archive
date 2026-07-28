@@ -1,0 +1,136 @@
+{
+  "id": "1531657708711972925",
+  "name": "Short Duration Pulse Extenders",
+  "code": "CC008",
+  "reservedCodes": [
+    "CC008"
+  ],
+  "pastPostThreadIds": [
+    "1531690217872949449"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1238721489260253219",
+      "username": "augmentmendo",
+      "displayName": "AugmentMendo",
+      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/481c57cb3fa377c6087c477929e134b8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386454138069717032",
+      "name": "Pulse Extenders"
+    },
+    {
+      "id": "1465491913410084938",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1531668506825851001",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1531657708711972925/1531668506825851001/image.png?ex=6a6a0cf5&is=6a68bb75&hm=8eb738d66d2ba1bbdce64bd314e0d542b5b05dbe1d09511bad157274a1d846f7&",
+      "timestamp": 1785248629164,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1238721489260253219",
+        "username": "augmentmendo",
+        "displayName": "AugmentMendo",
+        "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/481c57cb3fa377c6087c477929e134b8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 36815,
+      "canDownload": true,
+      "width": 875,
+      "height": 571,
+      "path": "images/image.png",
+      "hash": "d59880c7ca3fc1508746cd5bce934f72f44020f2d046aea5ca6b6dc2a3da0e0e",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1531657708711972925/1531689336553079037/1531668506825851001-image.png?ex=6a6a205b&is=6a68cedb&hm=67acf9ec8bc8948fce5bbb02567fdaa17df61fa72d0807ec6774a53dff266dd9&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1531668638866735175",
+      "name": "CC008_simple_pulse_extenders.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1531657708711972925/1531668638866735175/simple_pulse_extenders.litematic?ex=6a6a0d14&is=6a68bb94&hm=40ec542ab4620f4949d13930e656c819dcf83abe001b96691ff385d7d8187e6d&",
+      "timestamp": 1785248660584,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1238721489260253219",
+        "username": "augmentmendo",
+        "displayName": "AugmentMendo",
+        "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/481c57cb3fa377c6087c477929e134b8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1368,
+      "canDownload": true,
+      "hash": "186747fb121a745c1fd907dae5adddbcd22ea3b8b8fdf4a8ba3ac7a08b07666b",
+      "path": "attachments/CC008_simple_pulse_extenders.litematic",
+      "litematic": {
+        "size": "40x4x10",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Simple comparator faders (56-336gt) that give a longer output (when a memory cell fader is not needed). Pulse the repeater(s) to turn them on.",
+    "features": [
+      "Faders (56-336gt)",
+      "2gt pulse the repeater(s) to turn on",
+      "Can take output (solid-state, monostable, etc.) from anywhere",
+      "No credits because it's so easy"
+    ],
+    "instructions": [
+      "2gt pulse the repeater(s) to turn on."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Rising Edge",
+      "id": "1457020951001567444",
+      "url": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
+      "matches": [
+        "monostable"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1531690217872949449",
+    "forumId": "1386443869729587291",
+    "continuingMessageIds": [
+      "1531690227180241036"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1531690217872949449",
+    "uploadMessageId": "1531690213825581227"
+  },
+  "archivedAt": 1785253800484,
+  "updatedAt": 1785253800484,
+  "num_comments": 0
+}

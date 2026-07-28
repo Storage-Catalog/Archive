@@ -4,7 +4,7 @@
   "code": "CC",
   "category": "Wiring & Logic",
   "description": "Clocks and counter devices",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1386448150994223134",
@@ -35,6 +35,11 @@
       "id": "1473341211069906964",
       "code": "CC007",
       "path": "CC007_8gt_Fast_Switch_1wt_Divide-by-N_Counter"
+    },
+    {
+      "id": "1531657708711972925",
+      "code": "CC008",
+      "path": "CC008_Short_Duration_Pulse_Extenders"
     }
   ]
 }

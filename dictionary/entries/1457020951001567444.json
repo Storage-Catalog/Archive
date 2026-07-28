@@ -14,9 +14,10 @@
   "updatedAt": 1767456174933,
   "references": [],
   "referencedBy": [
-    "SP004",
     "CC004",
+    "CC008",
     "LC001",
-    "LC002"
+    "LC002",
+    "SP004"
   ]
 }
