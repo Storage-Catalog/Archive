@@ -1,8 +1,6 @@
 # Short Duration Pulse Extenders
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *AugmentMendo*
-
 **Endorsed by:** *Ragdoll Willy*
 
 **Tags:** *Pulse Extenders, Functional*

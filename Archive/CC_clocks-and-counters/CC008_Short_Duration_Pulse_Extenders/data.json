@@ -8,15 +8,7 @@
   "pastPostThreadIds": [
     "1531690217872949449"
   ],
-  "authors": [
-    {
-      "type": "discord-in-guild",
-      "id": "1238721489260253219",
-      "username": "augmentmendo",
-      "displayName": "AugmentMendo",
-      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/481c57cb3fa377c6087c477929e134b8.webp"
-    }
-  ],
+  "authors": [],
   "endorsers": [
     {
       "type": "discord-in-guild",
@@ -131,6 +123,6 @@
     "uploadMessageId": "1531690213825581227"
   },
   "archivedAt": 1785253800484,
-  "updatedAt": 1785253800484,
+  "updatedAt": 1785296707668,
   "num_comments": 0
 }
