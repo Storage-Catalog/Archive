@@ -17,10 +17,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1234197202193219644",
       "username": "koalus69",
-      "iconURL": "https://cdn.discordapp.com/avatars/1234197202193219644/9484efd5ab87fff26a62c943bc2dc55f.webp"
+      "displayName": "Koalus",
+      "iconURL": "https://cdn.discordapp.com/avatars/1234197202193219644/e195d8ac3e6806314abe2bdb5fe24d0c.webp"
     }
   ],
   "endorsers": [
