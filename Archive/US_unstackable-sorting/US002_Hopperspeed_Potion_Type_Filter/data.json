@@ -17,9 +17,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "204889304227512320",
       "username": "xxopticnervexx",
+      "displayName": "xXOpticNerveXx",
       "iconURL": "https://cdn.discordapp.com/avatars/204889304227512320/ad0110a304b6c4ae04b28fec0bb25033.webp"
     }
   ],
