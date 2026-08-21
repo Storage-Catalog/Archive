@@ -10,10 +10,9 @@
   ],
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "369743662726250499",
       "username": "sneakysquid4344",
-      "displayName": "Sneaky",
       "iconURL": "https://cdn.discordapp.com/avatars/369743662726250499/b6592000ac228fe1f03bf6b817aaaf32.webp"
     }
   ],
