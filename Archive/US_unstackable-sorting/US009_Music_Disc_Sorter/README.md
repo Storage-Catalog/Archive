@@ -1,7 +1,7 @@
 # Music Disc Sorter
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *Andrews54757, TisUnfortunate, X8Ghost*
+**Authors:** *Andrews54757, TisUnfortunate, La Fantasma*
 
 **Endorsed by:** *TisUnfortunate*
 
