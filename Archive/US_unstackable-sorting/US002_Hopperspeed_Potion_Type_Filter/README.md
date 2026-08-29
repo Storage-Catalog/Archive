@@ -1,7 +1,7 @@
 # Hopperspeed Potion Type Filter
 <img alt="area_render_67_.png" src="images/area_render_67_.png?raw=1" height="300px">
 
-**Authors:** *Andrews54757, xXOpticNerveXx*
+**Authors:** *Andrews54757, Uganda*
 
 **Endorsed by:** *Andrews54757*
 
