@@ -1,7 +1,7 @@
 # Survival item sets
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *sneakysquid4344*
+**Authors:** *deleted_user_41a6ee254184*
 
 **Endorsed by:** *Hi!?*
 
