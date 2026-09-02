@@ -11,7 +11,7 @@
 
 Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types at full 6x hopperspeed
 ## Features
-- 8x9x4 footprint
+- 6x9x4 footprint
 - Hopperline output
 
 ## Other Images
