@@ -1,7 +1,7 @@
 # 1wABt 8 item 1dc SSI Chest Hal
 <img alt="3wABt_8_item_chest_hall.png" src="images/3wABt_8_item_chest_hall.png?raw=1" height="300px">
 
-**Authors:** *Jezlarm*
+**Authors:** *⋆｡°✩Jezlarm*
 
 **Endorsed by:** *Andrews54757*
 
