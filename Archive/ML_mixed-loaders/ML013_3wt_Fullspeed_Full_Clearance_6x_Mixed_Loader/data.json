@@ -1,0 +1,179 @@
+{
+  "id": "1488148162186182726",
+  "name": "3wt Fullspeed Full Clearance 6x Mixed Loader",
+  "code": "ML013",
+  "reservedCodes": [
+    "ML013"
+  ],
+  "pastPostThreadIds": [
+    "1496409602877689909",
+    "1544853414859771918"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "displayName": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386423142574194868",
+      "name": "6X Hopperspeed"
+    },
+    {
+      "id": "1465490666501963848",
+      "name": "Functional"
+    },
+    {
+      "id": "1386422917729882322",
+      "name": "Full Clearance"
+    },
+    {
+      "id": "1386839243879616523",
+      "name": "Fullspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1544593059461861396",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1488148162186182726/1544593059461861396/image.png?ex=6a99baa2&is=6a986922&hm=dfc8dadfb889cf4ad722e4ecb8cf027bf56491f5eb26748027ba61cbc2d6ca16&",
+      "timestamp": 1788330082877,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 102504,
+      "canDownload": true,
+      "width": 614,
+      "height": 863,
+      "path": "images/image.png",
+      "hash": "5c3eb2411d054010cf77e004b212cfdb47bddf51b0931b38aaed9dae0a29cd41",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1488148162186182726/1544853277039001620/1544593059461861396-image.png?ex=6a9a043b&is=6a98b2bb&hm=cf964b12eadfbf593fa864d5ced2df48d0bcc8c72568188863088c6736a0ddd2&"
+    },
+    {
+      "id": "1544593058736115712",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1488148162186182726/1544593058736115712/image.png?ex=6a99baa2&is=6a986922&hm=aa876491d5a36697aa75fa6d9dfb9f7971a529f034b38132a538fb59204af818&",
+      "timestamp": 1788330082877,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 102419,
+      "canDownload": true,
+      "width": 614,
+      "height": 890,
+      "path": "images/image_1.png",
+      "hash": "c5dff9c3bfcb9e65b8f6cac7d3a94034e0e6a5ea26e32589e39e7f53aaa366d5",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1488148162186182726/1544853277382942810/1544593058736115712-image.png?ex=6a9a043b&is=6a98b2bb&hm=732c2b1be4b2441df9baffc0e7df9f72c521a55b3513429e78bf5d9c20ba63b1&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1544593060095328347",
+      "name": "ML013_3wt6xmixed_local_fsfc_v2_tiledexample.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1488148162186182726/1544593060095328347/3wt6xmixed_local_fsfc_v2_tiledexample.litematic?ex=6a99baa2&is=6a986922&hm=ac4f0ca23ef3428ea5901eb104f26c2ed725306fcaab6ba08f3b91ae88a69339&",
+      "timestamp": 1788330082877,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3252,
+      "canDownload": true,
+      "hash": "7e4498a613d2dc361e758ad1e5aa9223c4c4aa15cbe4892a0bb8a1b247440134",
+      "path": "attachments/ML013_3wt6xmixed_local_fsfc_v2_tiledexample.litematic",
+      "litematic": {
+        "size": "7x10x20",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1544593059768176703",
+      "name": "ML013_3wt6xmixed_local_fsfc_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1488148162186182726/1544593059768176703/3wt6xmixed_local_fsfc_v2.litematic?ex=6a99baa2&is=6a986922&hm=1ef7d1dbb5f274ab4fd284458b622d81419b9efc502d314f069faaa2e81d3b59&",
+      "timestamp": 1788330082877,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1447,
+      "canDownload": true,
+      "hash": "70558f3be15e51b7f0ca857009b3837e5f8e8004873f0b9d960e1c0ca7d7a3bb",
+      "path": "attachments/ML013_3wt6xmixed_local_fsfc_v2.litematic",
+      "litematic": {
+        "size": "4x9x6",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types at full 6x hopperspeed",
+    "features": [
+      "8x9x4 footprint",
+      "Hopperline output"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1544853414859771918",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1544853426209296434"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1544853414859771918",
+    "uploadMessageId": "1544853412326412288"
+  },
+  "archivedAt": 1788392154659,
+  "updatedAt": 1788392154659,
+  "num_comments": 0
+}

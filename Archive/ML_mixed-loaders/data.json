@@ -55,6 +55,11 @@
       "id": "1488156055744679976",
       "code": "ML012",
       "path": "ML012_Compact_2wt_6x_Mixed_Loader"
+    },
+    {
+      "id": "1488148162186182726",
+      "code": "ML013",
+      "path": "ML013_3wt_Fullspeed_Full_Clearance_6x_Mixed_Loader"
     }
   ]
 }
