@@ -1,0 +1,151 @@
+{
+  "id": "1542995341882818730",
+  "name": "Floor box display",
+  "code": "OD008",
+  "reservedCodes": [
+    "OD008"
+  ],
+  "pastPostThreadIds": [
+    "1545194502258425996"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "586985945996328979",
+      "username": "mitocorleone",
+      "displayName": "Mito",
+      "iconURL": "https://cdn.discordapp.com/avatars/586985945996328979/e36e93c736f838180fbf1c367c0bfa09.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386201854257532949",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1465491092089868288",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1542995342356914317",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1542995341882818730/1542995342356914317/area_render.png?ex=6a9341e5&is=6a91f065&hm=d0f68ad3eb03602715468bd37877df18f9c64e3adc14ccb97bd61ef0f20dc2ca&",
+      "timestamp": 1787949156972,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "586985945996328979",
+        "username": "mitocorleone",
+        "displayName": "Mito",
+        "iconURL": "https://cdn.discordapp.com/avatars/586985945996328979/e36e93c736f838180fbf1c367c0bfa09.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 70601,
+      "canDownload": true,
+      "width": 814,
+      "height": 854,
+      "path": "images/area_render.png",
+      "hash": "de9227df071c69f6e2cd5523cb7568bc439110548426044e4e2526c5442d87e7",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1542995341882818730/1542997521712812112/1542995342356914317-area_render.png?ex=6a9343ec&is=6a91f26c&hm=f5478408d82bdb0bc596d9d9818fead50715dcaeb883e552506e973e5a3f4234&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1542995610259685416",
+      "name": "OD008_Floor_box_display_by_mitocorleone.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1542995341882818730/1542995610259685416/Floor_box_display_by_mitocorleone.litematic?ex=6a934224&is=6a91f0a4&hm=3fb8aa0679f3c1a6e859cfc4d53c4c02e146e9bdb4baf10e7b2b43bff6792e4d&",
+      "timestamp": 1787949221075,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "586985945996328979",
+        "username": "mitocorleone",
+        "displayName": "Mito",
+        "iconURL": "https://cdn.discordapp.com/avatars/586985945996328979/e36e93c736f838180fbf1c367c0bfa09.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1271,
+      "canDownload": true,
+      "hash": "cc37fc87a579be88daa6f8d76636398394489ccde796647d398a3705c86cd816",
+      "path": "attachments/OD008_Floor_box_display_by_mitocorleone.litematic",
+      "litematic": {
+        "size": "6x7x6",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Simple manual box display/filler for 3-wide chest hall.",
+    "features": [
+      "Bufferless",
+      "Compact (6x6x6 counting the supply redstone line)",
+      "TNT proof"
+    ],
+    "notes": "Replacement through noteblock takes 12gt, and the box than u can drop 16gt (unlocked hopper)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bufferless",
+      "id": "1506328271829340240",
+      "url": "https://discord.com/channels/1375556143186837695/1506328271829340240/1506328273418719353",
+      "matches": [
+        "Bufferless"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1545194502258425996",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1545194518561693788"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1545194502258425996",
+    "uploadMessageId": "1545194499662282813"
+  },
+  "archivedAt": 1788473469152,
+  "updatedAt": 1788473469152,
+  "num_comments": 0
+}
