@@ -20,3 +20,10 @@ Designed for quad bulks with more space under the top display.
 
 ## Resources
 - [TD005_Small_Slider_Top_Display.litematic](attachments/TD005_Small_Slider_Top_Display.litematic): MC 1.21.4, Size 7x8x2 blocks
+
+## Comments
+
+### TisUnfortunate (9/10/2026)
+Smaller version
+<img alt="image.png" src="comments_attachments/1547645076111495168-image.png?raw=1" height="150px">
+

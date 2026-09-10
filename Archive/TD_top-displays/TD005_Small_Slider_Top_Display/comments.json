@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1547645076572995584",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    },
+    "content": "Smaller version",
+    "attachments": [
+      {
+        "id": "1547645076111495168",
+        "name": "image.png",
+        "contentType": "image/png",
+        "url": "https://cdn.discordapp.com/attachments/1396186993523953744/1547645076111495168/image.png?ex=6aa42c4c&is=6aa2dacc&hm=34ff9df34ef31222ffbc441135a0261e5dcfabf83f3cfad9ba819c475a2753ab&",
+        "timestamp": 1789057740110,
+        "author": {
+          "type": "discord-in-guild",
+          "id": "384084307712409600",
+          "username": "tisunfortunate",
+          "displayName": "TisUnfortunate",
+          "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+        },
+        "source": "MessageAttachment",
+        "description": "Smaller version",
+        "size": 70559,
+        "canDownload": true,
+        "hash": "87a767f1ee216a547280714503952affa9ec2f183ab8e63f75804a67882b10e0",
+        "path": "comments_attachments/1547645076111495168-image.png",
+        "image": {
+          "width": 1000,
+          "height": 1000
+        }
+      }
+    ],
+    "timestamp": 1789057740796
+  }
+]
