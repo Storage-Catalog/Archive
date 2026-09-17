@@ -1,7 +1,7 @@
 # Box Crafter Using Mixed Ingredient Boxes
 <img alt="box_crafter_pre-made_material.png" src="images/box_crafter_pre-made_material.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan), Jaexyn, tuzier*
+**Authors:** *金合欢酱喵~ (acaciachan), Jaexyn, Tuzier*
 
 **Endorsed by:** *Andrews54757*
 

@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "577991168369885223",
       "username": "jayroi",
+      "displayName": "JayRoi",
       "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
     },
     {

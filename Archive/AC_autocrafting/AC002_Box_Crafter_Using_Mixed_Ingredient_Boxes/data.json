@@ -24,9 +24,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/549734176455262209/847696f5e3e004a2f753d0e5b48b5f9c.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1253968886240383080",
       "username": "tuzier",
+      "displayName": "Tuzier",
       "iconURL": "https://cdn.discordapp.com/avatars/1253968886240383080/b20bd38452c858f195210ec8e77b1093.webp"
     }
   ],

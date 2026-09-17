@@ -23,7 +23,7 @@ CMIS 5.0 is a complete storage system designed for single player or small server
 ## Sourced Components
 - Ideal Splitter v3 by Andrews54757 ([VIP003 32X and 64X Compact Ideal Splitter](https://discord.com/channels/1375556143186837695/1388318356377043076))
 - Whitelister, HyperThreaded TempStorage, and Compactor by TisUnfortunate 
-- Remote Bulk Storage assembled by jayroi (Others' components, but assembled for me by jayroi)
+- Remote Bulk Storage assembled by JayRoi (Others' components, but assembled for me by JayRoi)
 - cartMIS Whitelister by Inspector Talon
 - cartMIS Slice inspired by Luxar , modified Civic Dude 
 - Shulker Box Sorter by 金合欢酱喵~ (acaciachan) , HeadUnit modified by Civic Dude 
