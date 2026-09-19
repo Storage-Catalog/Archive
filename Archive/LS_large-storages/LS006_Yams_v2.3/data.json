@@ -140,7 +140,7 @@
       "description": "Decorated full bulk variant",
       "size": 4071416,
       "canDownload": true,
-      "hash": "dbc834a423aed8fe98ce3ecc3b4b7c2ed7ffdb06dff9237d8925a1ab81169d26",
+      "hash": "f1cdc1576ca236e8d6d01d687a3cda1af1930e743f4f8abcf7f8d7143f103ce5",
       "path": "attachments/LS006_YAMS_V2.32.1_FB_Deco.zip",
       "wdls": [
         {
@@ -153,87 +153,7 @@
         "version": "1.21.11",
         "optimized": true
       },
-      "unoptimizedSize": 17881349
-    },
-    {
-      "id": "1528173529055625247",
-      "name": "LS006_YAMS_V2.32.1_FB_Deco.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528173529055625247/YAMS_V2.32.1_FB_Deco.litematic?ex=6a5d5601&is=6a5c0481&hm=81beda1648b76c8317e42f57089cb386a636a8fdb6bf1e00def9093f1cd66bd8&",
-      "timestamp": 1784415361607,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "Decorated full bulk variant",
-      "size": 202919,
-      "canDownload": true,
-      "hash": "5a9ad05e58d3d32b34c1354455377f803bbb970efcbc9e39837a850a36fdf7b3",
-      "path": "attachments/LS006_YAMS_V2.32.1_FB_Deco.litematic",
-      "litematic": {
-        "size": "208x74x176",
-        "version": "1.21.11"
-      }
-    },
-    {
-      "id": "1528173528619155486",
-      "name": "LS006_YAMS_V2.32.1_FB.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528173528619155486/YAMS_V2.32.1_FB.zip?ex=6a5d5601&is=6a5c0481&hm=45858773c885b092396d3aa54cbf58b55570751b9d8846f3f1a11960af30f24a&",
-      "timestamp": 1784415361607,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "Full bulk variant",
-      "size": 4338848,
-      "canDownload": true,
-      "hash": "bf359a4570be5662cc99d3c93175e2d47a4ba8257623a9d0197edc909585168f",
-      "path": "attachments/LS006_YAMS_V2.32.1_FB.zip",
-      "wdls": [
-        {
-          "path": "YAMS V2.32.1 FB",
-          "version": "1.21.11",
-          "levelName": "YAMS V2.32.1 FB"
-        }
-      ],
-      "wdl": {
-        "version": "1.21.11",
-        "optimized": true
-      },
-      "unoptimizedSize": 18097502
-    },
-    {
-      "id": "1528173528153854103",
-      "name": "LS006_YAMS_V2.32.1_FB.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528173528153854103/YAMS_V2.32.1_FB.litematic?ex=6a5d5601&is=6a5c0481&hm=2850bbaeadfafa37469b0b97d356f5a59c79bbc232829194cec784ffd82a768f&",
-      "timestamp": 1784415361607,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "Full bulk variant",
-      "size": 191992,
-      "canDownload": true,
-      "hash": "6251f82a402f6b72b9f865d3061667ae9920c35f97ebb8a77f9ab68ab4c4f9e0",
-      "path": "attachments/LS006_YAMS_V2.32.1_FB.litematic",
-      "litematic": {
-        "size": "208x74x176",
-        "version": "1.21.11"
-      }
+      "unoptimizedSize": 4071416
     },
     {
       "id": "1528174036109099078",
@@ -252,7 +172,7 @@
       "description": "Decorated mini-bulk variant",
       "size": 9021347,
       "canDownload": true,
-      "hash": "8b99c5eeeefe668e16b0c612bf902c101ebf96928a430f62713177a088060498",
+      "hash": "2f2d85d6b7e27922a67c5656ffba8363ddb01ead415c0ec1cdf1efee5c9a24b0",
       "path": "attachments/LS006_YAMS_V2.32.1_MB_Deco.zip",
       "wdls": [
         {
@@ -265,38 +185,14 @@
         "version": "1.21.11",
         "optimized": true
       },
-      "unoptimizedSize": 19643590
+      "unoptimizedSize": 9021347
     },
     {
-      "id": "1528174035664633996",
-      "name": "LS006_YAMS_V2.32.1_MB_Deco.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528174035664633996/YAMS_V2.32.1_MB_Deco.litematic?ex=6a5d567a&is=6a5c04fa&hm=82fb6ce5385d5ec5780b5fc80f7ba573bf97d232c01a5d97e6fd292b0bbcc79b&",
-      "timestamp": 1784415482401,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "Decorated mini-bulk variant",
-      "size": 157212,
-      "canDownload": true,
-      "hash": "4bc8b77cbcf6bc33fb992a3aa66ed0ced296d49ed3a827795e596d826c4436a6",
-      "path": "attachments/LS006_YAMS_V2.32.1_MB_Deco.litematic",
-      "litematic": {
-        "size": "208x68x176",
-        "version": "1.21.11"
-      }
-    },
-    {
-      "id": "1528174035307855936",
-      "name": "LS006_YAMS_V2.32.1_MB.zip",
+      "id": "1551010959919947937",
+      "name": "LS006_YAMS_V2.33_FB_Bugfixed.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528174035307855936/YAMS_V2.32.1_MB.zip?ex=6a5d567a&is=6a5c04fa&hm=309b94cfc24cf1fff56f0b2cb31a3d17f9ba34025ea25c081a125d8900227f6f&",
-      "timestamp": 1784415482401,
+      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1551010959919947937/YAMS_V2.33_FB_Bugfixed.zip?ex=6ab06b05&is=6aaf1985&hm=0db880ce908bb9e203cd5fa78d1a549c597cc494885bbe680786b2b3494dc2bb&",
+      "timestamp": 1789860229319,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -305,30 +201,30 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "Mini-bulk variant",
-      "size": 8956092,
+      "description": "Full bulk variant",
+      "size": 1250169,
       "canDownload": true,
-      "hash": "b4f209e0032012398f7b7518c3574662f26430319907d148395f68452fa75823",
-      "path": "attachments/LS006_YAMS_V2.32.1_MB.zip",
+      "hash": "50b839ef623d71a04cb792b1bd53efa24ade7d360ad16d53efc985bdf9d18f64",
+      "path": "attachments/LS006_YAMS_V2.33_FB_Bugfixed.zip",
       "wdls": [
         {
-          "path": "YAMS V2.32.1 MB",
+          "path": "YAMS V2.33 FB Bugfixed",
           "version": "1.21.11",
-          "levelName": "YAMS V2.32.1 MB"
+          "levelName": "YAMS V2.33 FB Bugfixed"
         }
       ],
       "wdl": {
         "version": "1.21.11",
         "optimized": true
       },
-      "unoptimizedSize": 19863050
+      "unoptimizedSize": 1283613
     },
     {
-      "id": "1528174034993549322",
-      "name": "LS006_YAMS_V2.32.1_MB.litematic",
+      "id": "1551010959315828806",
+      "name": "LS006_YAMS_V2.33_FB_Bugfixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1528174034993549322/YAMS_V2.32.1_MB.litematic?ex=6a5d567a&is=6a5c04fa&hm=a86a5942238fa034af2ebab85b31e5e2eb1ef9dd27d57bdfff585ec73338c8d5&",
-      "timestamp": 1784415482401,
+      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1551010959315828806/YAMS_V2.33_FB_Bugfixed.litematic?ex=6ab06b05&is=6aaf1985&hm=311d2d5d8b1daad244cbcc82193e56a1a671b4938bcf76be8b93b08c2c3c7e6b&",
+      "timestamp": 1789860229319,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -337,15 +233,71 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "Mini-bulk variant",
-      "size": 145044,
+      "description": "Full bulk variant",
+      "size": 193371,
       "canDownload": true,
-      "hash": "d55a7335905a7ddaf0cd43a6d22becccd3134811dc04a71cdeec5b1c78c9244f",
-      "path": "attachments/LS006_YAMS_V2.32.1_MB.litematic",
+      "hash": "1c09bf1311bfe4f797700d68b72e32aeedfc945341db4b92e76420c0bf63945c",
+      "path": "attachments/LS006_YAMS_V2.33_FB_Bugfixed.litematic",
+      "litematic": {
+        "size": "208x74x176",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1551010958569246781",
+      "name": "LS006_YAMS_V2.33_MB_Bugfixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1551010958569246781/YAMS_V2.33_MB_Bugfixed.litematic?ex=6ab06b04&is=6aaf1984&hm=44dd397eabf07d309a0030ef3c7cb9faa264a399de231fca5defe0dfce6497ca&",
+      "timestamp": 1789860229319,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Minibulk variant",
+      "size": 145590,
+      "canDownload": true,
+      "hash": "34068f07f2552fcb5f53e986ec6c2ec3d341349720dd7c13aeb7fa267c74b58a",
+      "path": "attachments/LS006_YAMS_V2.33_MB_Bugfixed.litematic",
       "litematic": {
         "size": "208x57x176",
         "version": "1.21.11"
       }
+    },
+    {
+      "id": "1551010958271455374",
+      "name": "LS006_YAMS_V2.33_MB_Bugfixed.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1468349674766205142/1551010958271455374/YAMS_V2.33_MB_Bugfixed.zip?ex=6ab06b04&is=6aaf1984&hm=bb8d19067e3aa5ee1cf7b7f0e20a800a70252c0ad6aaedee4295302e6ef80e6c&",
+      "timestamp": 1789860229319,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Minibulk variant",
+      "size": 1147212,
+      "canDownload": true,
+      "hash": "7d14d23ed30ae728d4fe469a40bd6fc83a8183dd65a747a00e012cc1945cbf6d",
+      "path": "attachments/LS006_YAMS_V2.33_MB_Bugfixed.zip",
+      "wdls": [
+        {
+          "path": "YAMS V2.33 MB Bugfixed",
+          "version": "1.21.11",
+          "levelName": "YAMS V2.33 MB Bugfixed"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.11",
+        "optimized": true
+      },
+      "unoptimizedSize": 1172973
     }
   ],
   "records": {
@@ -415,14 +367,13 @@
     "continuingMessageIds": [
       "1528174917260939481",
       "1528174917936218204",
-      "1528174918762496122",
-      "1528174919349964841"
+      "1528174918762496122"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1468360770105376890",
-    "uploadMessageId": "1528174907010187325",
+    "uploadMessageId": "1551011793848238130",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1468360770105376890/1468360771283976320/Yams_Full_Bulk.png?ex=69b28a48&is=69b138c8&hm=f00ddd4e2278630ce2cc226e9205f8b6d6a82416e46ac77996191d851f5f555e&"
   },
   "archivedAt": 1770154884552,
-  "updatedAt": 1784415687797,
+  "updatedAt": 1789860425569,
   "num_comments": 0
 }

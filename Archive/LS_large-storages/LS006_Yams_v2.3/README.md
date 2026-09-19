@@ -34,17 +34,13 @@ It contains a building guide, pictures, an FAQ and a bugfix changelog.
   - Nether side chunkloaders
 - [LS006_YAMS_V2.32.1_FB_Deco.zip](attachments/LS006_YAMS_V2.32.1_FB_Deco.zip): MC 1.21.11
   - Decorated full bulk variant
-- [LS006_YAMS_V2.32.1_FB_Deco.litematic](attachments/LS006_YAMS_V2.32.1_FB_Deco.litematic): MC 1.21.11, Size 208x74x176 blocks
-  - Decorated full bulk variant
-- [LS006_YAMS_V2.32.1_FB.zip](attachments/LS006_YAMS_V2.32.1_FB.zip): MC 1.21.11
-  - Full bulk variant
-- [LS006_YAMS_V2.32.1_FB.litematic](attachments/LS006_YAMS_V2.32.1_FB.litematic): MC 1.21.11, Size 208x74x176 blocks
-  - Full bulk variant
 - [LS006_YAMS_V2.32.1_MB_Deco.zip](attachments/LS006_YAMS_V2.32.1_MB_Deco.zip): MC 1.21.11
   - Decorated mini-bulk variant
-- [LS006_YAMS_V2.32.1_MB_Deco.litematic](attachments/LS006_YAMS_V2.32.1_MB_Deco.litematic): MC 1.21.11, Size 208x68x176 blocks
-  - Decorated mini-bulk variant
-- [LS006_YAMS_V2.32.1_MB.zip](attachments/LS006_YAMS_V2.32.1_MB.zip): MC 1.21.11
-  - Mini-bulk variant
-- [LS006_YAMS_V2.32.1_MB.litematic](attachments/LS006_YAMS_V2.32.1_MB.litematic): MC 1.21.11, Size 208x57x176 blocks
-  - Mini-bulk variant
+- [LS006_YAMS_V2.33_FB_Bugfixed.zip](attachments/LS006_YAMS_V2.33_FB_Bugfixed.zip): MC 1.21.11
+  - Full bulk variant
+- [LS006_YAMS_V2.33_FB_Bugfixed.litematic](attachments/LS006_YAMS_V2.33_FB_Bugfixed.litematic): MC 1.21.11, Size 208x74x176 blocks
+  - Full bulk variant
+- [LS006_YAMS_V2.33_MB_Bugfixed.litematic](attachments/LS006_YAMS_V2.33_MB_Bugfixed.litematic): MC 1.21.11, Size 208x57x176 blocks
+  - Minibulk variant
+- [LS006_YAMS_V2.33_MB_Bugfixed.zip](attachments/LS006_YAMS_V2.33_MB_Bugfixed.zip): MC 1.21.11
+  - Minibulk variant
