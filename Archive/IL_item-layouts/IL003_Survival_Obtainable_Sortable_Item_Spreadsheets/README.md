@@ -35,3 +35,5 @@ Made by using the CSV export tool on https://layout.storagecatalog.org/
   - For 1.21.6-1.21.8: 1416 total, 1080 included, 336 excluded
 - [IL003_1.21.4_items.csv](attachments/IL003_1.21.4_items.csv): text/csv; charset=utf-8
   - For 1.21.4: 1385 total, 1070 included, 315 excluded
+- [IL003_26.3_items.csv](attachments/IL003_26.3_items.csv): text/csv; charset=utf-8
+  - For 26.3: 1660 total, 1274 included, 386 excluded

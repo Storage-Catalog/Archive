@@ -129,6 +129,26 @@
       "canDownload": true,
       "hash": "7f411edb449a6b39841d2ac781a92f55669f35f8c508ea9b2b6230791f68a97a",
       "path": "attachments/IL003_1.21.4_items.csv"
+    },
+    {
+      "id": "1551027157340520689",
+      "name": "IL003_26.3_items.csv",
+      "contentType": "text/csv; charset=utf-8",
+      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1551027157340520689/26.3_items.csv?ex=6ab07a1b&is=6aaf289b&hm=6a32a09b7eab6b1abf75ea74c95b84694ab82e21f56c98035b10b41451975b39&",
+      "timestamp": 1789864091302,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "For 26.3: 1660 total, 1274 included, 386 excluded",
+      "size": 131451,
+      "canDownload": true,
+      "hash": "bf91fc2b49c1be348236eb4c3efd46ff3c67b24d8f9839db0c157d2ac95b45e1",
+      "path": "attachments/IL003_26.3_items.csv"
     }
   ],
   "records": {
@@ -156,9 +176,9 @@
       "1516863350728822945"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1510873981798842449",
-    "uploadMessageId": "1516863341841223801"
+    "uploadMessageId": "1551027368171278537"
   },
   "archivedAt": 1780290826312,
-  "updatedAt": 1781718801847,
+  "updatedAt": 1789864139542,
   "num_comments": 0
 }
