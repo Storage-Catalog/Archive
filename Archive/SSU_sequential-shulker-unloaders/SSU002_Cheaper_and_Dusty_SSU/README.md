@@ -1,7 +1,7 @@
 # Cheaper and Dusty SSU
 <img alt="Material_Reduction.png" src="images/Material_Reduction.png?raw=1">
 
-**Authors:** *glidingmonkey*
+**Authors:** *Christone*
 
 **Endorsed by:** *Andrews54757*
 
