@@ -31,6 +31,13 @@
       "username": "tisunfortunate",
       "displayName": "TisUnfortunate",
       "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
     }
   ],
   "tags": [
@@ -73,10 +80,10 @@
   ],
   "attachments": [
     {
-      "id": "1503401543863505096",
-      "name": "VBS009_HT.WL.Temp.v2.0.litematic",
-      "url": "https://cdn.discordapp.com/attachments/1503401138379292733/1503401543863505096/HT.WL.Temp.v2.0.litematic?ex=6a03374b&is=6a01e5cb&hm=4afa26bf6c7f513d81e99cfefa9378d85c060528a64d34dc35c9b3c7dd66608b&",
-      "timestamp": 1778509259170,
+      "id": "1552185219614904400",
+      "name": "VBS009_HT.WL.Temp.V.2.01.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1503401138379292733/1552185219614904400/HT.WL.Temp.V.2.01.litematic?ex=6ab4b0a2&is=6ab35f22&hm=e1d820dc0df6ba2f320742dd6c584e0899a3fd6b32623cf810c44141421570f5&",
+      "timestamp": 1790140193702,
       "author": {
         "type": "discord-external",
         "id": "384084307712409600",
@@ -84,12 +91,12 @@
         "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
       },
       "source": "DirectUpload",
-      "description": "",
+      "description": "Added 1 item in each of the whitelisters along with matching test boxes for users to test the temp. Also added instructions to set up the whitelisters",
       "contentType": "unknown",
       "canDownload": true,
-      "hash": "b20563a2ea937fce838505de90bb97dbefe67d00cc3c69df73f20d26f895269b",
-      "path": "attachments/VBS009_HT.WL.Temp.v2.0.litematic",
-      "size": 5476,
+      "hash": "9df47d4c1b55aa3a7919ded3d1c556a89baaab8f0323247a77a5f7d534e5a5c0",
+      "path": "attachments/VBS009_HT.WL.Temp.V.2.01.litematic",
+      "size": 6023,
       "litematic": {
         "size": "21x13x8",
         "version": "1.21.4"
@@ -142,8 +149,8 @@
         "type": "discord-in-guild",
         "id": "855736940220252177",
         "username": "comfypika",
-        "displayName": "ComfyBiha",
-        "iconURL": "https://cdn.discordapp.com/avatars/855736940220252177/a_307426894049c6a463feb24f8189c8d1.gif"
+        "iconURL": "https://cdn.discordapp.com/avatars/855736940220252177/a_307426894049c6a463feb24f8189c8d1.gif",
+        "displayName": "ComfyBiha"
       },
       "matches": [
         "<@855736940220252177>"
@@ -155,8 +162,8 @@
         "type": "discord-in-guild",
         "id": "670693115887091722",
         "username": "kurisu_techmc_user",
-        "displayName": "HRZ | Kurisu",
-        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/6a4ec7dd9e00bf009e5a8adb4bccb37c.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/6a4ec7dd9e00bf009e5a8adb4bccb37c.webp",
+        "displayName": "HRZ | Kurisu"
       },
       "matches": [
         "<@670693115887091722>"
@@ -199,10 +206,10 @@
       "1503402061382025296"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1503402043581141154",
-    "uploadMessageId": "1503402041320411306",
+    "uploadMessageId": "1552191094945620018",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1503402043581141154/1503402054289199134/image.png?ex=6a0337c5&is=6a01e645&hm=a28859bffe0272317375189d132b14deb3f9278d401b7711efb9f14f393e5089&"
   },
   "archivedAt": 1778509372719,
-  "updatedAt": 1778645183342,
+  "updatedAt": 1790141593717,
   "num_comments": 0
 }
