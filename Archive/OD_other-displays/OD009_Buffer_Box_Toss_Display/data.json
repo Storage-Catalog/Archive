@@ -1,0 +1,108 @@
+{
+  "id": "1553422701169877122",
+  "name": "Buffer Box Toss Display",
+  "code": "OD009",
+  "reservedCodes": [
+    "OD009"
+  ],
+  "pastPostThreadIds": [
+    "1553748157836566598"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491092089868288",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1553422702180569107",
+      "name": "Mr_Mime_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1553422701169877122/1553422702180569107/Mr_Mime_Display.png?ex=6ab93121&is=6ab7dfa1&hm=1e72eae399b5a801431f430f4e7dfbac92dde2bf01ed1ac96977c0ff6002a023&",
+      "timestamp": 1790435233157,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 250802,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1148,
+      "path": "images/Mr_Mime_Display.png",
+      "hash": "d14993d91ed2efe43d17ebaef2218c06d4df4cffdc49dc69e0bc588dd4a5a518",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1553422701169877122/1553422953729892372/1553422702180569107-mr_mime_display.png?ex=6ab9315d&is=6ab7dfdd&hm=c0d68ebef4bde88ebdab91b80bc643dc47e0f4b655772ba6863aa18969763b05&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1553422702528958504",
+      "name": "OD009_MrMime_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1553422701169877122/1553422702528958504/MrMime_Display.litematic?ex=6ab93121&is=6ab7dfa1&hm=c0eabac5d64295defc207c686a2aa56b7fb76ee4d2e9f7ccff845c3574039116&",
+      "timestamp": 1790435233157,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 986,
+      "canDownload": true,
+      "hash": "066563c592408cd3c4e17de5ef8a59837187e026ff83904604217801191922f4",
+      "path": "attachments/OD009_MrMime_Display.litematic",
+      "litematic": {
+        "size": "4x4x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A noteblock-driven system that breaks a displayed box, leaves it for the player, and replaces it with a new empty box. It also allows the player to toss a box from their inventory (onto the pale carpet) to display the tossed box instead. The noteblock, displayed box, and toss input are aligned in the center of a hall.",
+    "features": [
+      "Toss Input",
+      "TNT Proof"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1553748157836566598",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1553748168737292416"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1553748157836566598",
+    "uploadMessageId": "1553748154808012991"
+  },
+  "archivedAt": 1790512826051,
+  "updatedAt": 1790512826051,
+  "num_comments": 0
+}

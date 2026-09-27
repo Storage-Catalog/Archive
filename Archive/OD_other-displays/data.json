@@ -4,7 +4,7 @@
   "code": "OD",
   "category": "Box Displays",
   "description": "Other box displays.",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -45,6 +45,11 @@
       "id": "1542995341882818730",
       "code": "OD008",
       "path": "OD008_Floor_box_display"
+    },
+    {
+      "id": "1553422701169877122",
+      "code": "OD009",
+      "path": "OD009_Buffer_Box_Toss_Display"
     }
   ]
 }
