@@ -88,6 +88,9 @@
     "features": [
       "Toss Input",
       "TNT Proof"
+    ],
+    "considerations": [
+      "Not possible to fit a readout for the bottom dropper"
     ]
   },
   "styles": {},
@@ -103,6 +106,6 @@
     "uploadMessageId": "1553748154808012991"
   },
   "archivedAt": 1790512826051,
-  "updatedAt": 1790512826051,
+  "updatedAt": 1790772612430,
   "num_comments": 0
 }

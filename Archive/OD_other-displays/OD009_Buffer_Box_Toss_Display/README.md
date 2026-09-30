@@ -13,6 +13,8 @@ A noteblock-driven system that breaks a displayed box, leaves it for the player,
 ## Features
 - Toss Input
 - TNT Proof
+## Considerations
+- Not possible to fit a readout for the bottom dropper
 
 ## Resources
 - [OD009_MrMime_Display.litematic](attachments/OD009_MrMime_Display.litematic): MC 1.21.4, Size 4x4x3 blocks
