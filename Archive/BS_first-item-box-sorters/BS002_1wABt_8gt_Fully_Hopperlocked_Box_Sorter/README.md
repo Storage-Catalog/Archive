@@ -1,7 +1,7 @@
 # 1wABt 8gt Fully Hopperlocked Box Sorter
 <img alt="slice.png" src="images/slice.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

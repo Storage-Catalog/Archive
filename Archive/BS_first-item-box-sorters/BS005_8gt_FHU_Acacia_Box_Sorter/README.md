@@ -1,7 +1,7 @@
 # 8gt FHU Acacia Box Sorter
 <img alt="slice.png" src="images/slice.png?raw=1" height="300px">
 
-**Authors:** *Andrews54757, TisUnfortunate, 金合欢酱喵~ (acaciachan)*
+**Authors:** *Andrews54757, TisUnfortunate, 金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

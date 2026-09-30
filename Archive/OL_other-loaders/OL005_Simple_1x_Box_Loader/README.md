@@ -1,7 +1,7 @@
 # Simple 1x Box Loader
 <img alt="simple_loader.png" src="images/simple_loader.png?raw=1">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

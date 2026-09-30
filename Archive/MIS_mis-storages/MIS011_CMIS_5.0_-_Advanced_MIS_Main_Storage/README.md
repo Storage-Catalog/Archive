@@ -26,7 +26,7 @@ CMIS 5.0 is a complete storage system designed for single player or small server
 - Remote Bulk Storage assembled by JayRoi (Others' components, but assembled for me by JayRoi)
 - cartMIS Whitelister by Inspector Talon
 - cartMIS Slice inspired by Luxar , modified Civic Dude 
-- Shulker Box Sorter by 金合欢酱喵~ (acaciachan) , HeadUnit modified by Civic Dude 
+- Shulker Box Sorter by 金合欢喵~ (AcaciaMeow) , HeadUnit modified by Civic Dude 
 - Cart yeeting unloaders by Christone 
 - Unstackable Sorter (US010) by PyraLeft
 - Shulker Based Chunk Loader by: kahyxen

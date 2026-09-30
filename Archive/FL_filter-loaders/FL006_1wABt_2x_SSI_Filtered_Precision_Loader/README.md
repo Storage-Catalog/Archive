@@ -1,7 +1,7 @@
 # 1wABt 2x SSI Filtered Precision Loader
 <img alt="area_render_215_.png" src="images/area_render_215_.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

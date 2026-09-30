@@ -1,7 +1,7 @@
 # One Hopper Box isEmpty/isFull
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 
