@@ -44,13 +44,13 @@
       "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264913014128684/area_render_7_.png?ex=697284a5&is=69713325&hm=e0e85f01309168a9f0c61642a98a63a01ca1515b86759eedc093df067e0d7cf2&",
       "description": "",
       "canDownload": true,
-      "path": "images/area_render_7_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "bipim"
+        "username": "Unknown"
       },
       "timestamp": 1768939941000,
+      "path": "images/area_render_7_.png",
       "hash": "21e8411c9db72406c1db63496d32a2a0db1e94d0d01d50310450478faa4d2027"
     },
     {
@@ -60,13 +60,13 @@
       "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264913525838007/area_render_10_.png?ex=697284a5&is=69713325&hm=1fcace2cb85b4d54981c457a7233496a04e1d960a0ba1c3365c533a946036b50&",
       "description": "",
       "canDownload": true,
-      "path": "images/area_render_10_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "bipim"
+        "username": "Unknown"
       },
       "timestamp": 1768939941000,
+      "path": "images/area_render_10_.png",
       "hash": "ba8d5805df0dd468a7d8d3e5c1e703de936086234cfb013d056b348d4e74e633"
     },
     {
@@ -78,13 +78,13 @@
       "canDownload": true,
       "width": 800,
       "height": 418,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769051485000,
+      "path": "images/image.png",
       "hash": "3e6ce6a8613b5c5912027139546f3670968c7574112c69f09d68ce1e3947d98d"
     }
   ],
@@ -104,10 +104,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "bipim"
+        "username": "Unknown"
       },
       "timestamp": 1768939941000,
-      "size": 2986,
       "hash": "ccdd473f302a2dc3ff8ee42359681cc6adefedbc6b66ff130560132bd2667b71"
     },
     {
@@ -125,10 +124,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "bipim"
+        "username": "Unknown"
       },
       "timestamp": 1768939941000,
-      "size": 14152,
       "hash": "7c8e8a31dfb919828b90d86c7c6f77d25b9e5b35458493414307626eeef0e1f2"
     },
     {
@@ -146,18 +144,12 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769051485000,
-      "size": 1739638,
-      "wdls": [
-        {
-          "path": "Bipim Remote Brewer Array",
-          "version": "1.21.4",
-          "levelName": "Bipim Remote Brewer Array"
-        }
-      ],
-      "hash": "3fc44a3ae013dbb64c5c0957d5fd34db77410241133a7e77f388b24c3db05ae1"
+      "hash": "931c7de9f3c0c4035c4b397ecdea051d5e83326e33cdee61760c9421e82af1a2",
+      "unoptimizedSize": 2694261,
+      "size": 1739638
     },
     {
       "id": "1463732761583157452",
@@ -174,10 +166,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769051485000,
-      "size": 16753,
       "hash": "8b5e5f9847284bad7ce8f92fe3f694d114f9ca25ff006cc82b8b2f5bb174c9bb"
     }
   ],
@@ -194,7 +185,8 @@
     ],
     "considerations": [
       "requires some renaming",
-      "not as fast as brewers doing multiple stages at once"
+      "not as fast as brewers doing multiple stages at once",
+      "Not fully functional in 26.3+"
     ],
     "notes": "Tested with random input and varying number of ingredients for ~100k potions in all directions. Includes a schem and world download file with the interface wired to the brewer as an example.",
     "compatibility": "1.21+",
@@ -219,6 +211,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1464409780700450867/1464409781031669861/area_render_7_.png?ex=69b2ab23&is=69b159a3&hm=56781ea79ce7fdc31762332f84fdf2ebe3f519516902f1d79a1da4632525750f&"
   },
   "archivedAt": 1769212893724,
-  "updatedAt": 1769212893724,
+  "updatedAt": 1791331090153,
   "num_comments": 0
 }

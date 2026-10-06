@@ -21,6 +21,7 @@ A 'remote' brewer using renamed tokens. To use, select the potion type (normal, 
 ## Considerations
 - requires some renaming
 - not as fast as brewers doing multiple stages at once
+- Not fully functional in 26.3+
 ## Notes
 Tested with random input and varying number of ingredients for ~100k potions in all directions. Includes a schem and world download file with the interface wired to the brewer as an example.
 ## Compatibility
