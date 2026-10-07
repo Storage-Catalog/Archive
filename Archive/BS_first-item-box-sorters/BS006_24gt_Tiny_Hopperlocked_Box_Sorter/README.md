@@ -1,7 +1,7 @@
 # 24gt Tiny Hopperlocked Box Sorter
 <img alt="slice.png" src="images/slice.png?raw=1" height="300px">
 
-**Authors:** *Elessar*
+**Authors:** *humanoid_human*
 
 **Endorsed by:** *Andrews54757*
 
