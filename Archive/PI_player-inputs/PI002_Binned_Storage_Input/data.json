@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "759402531235037204",
       "username": "oliver.005",
+      "displayName": "oliver",
       "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/551968393d3f33787b4fee2527093bcc.webp"
     }
   ],
