@@ -41,44 +41,51 @@
   ],
   "images": [
     {
-      "id": "1386199264723599430",
-      "name": "Ceiling_Box_Display.png",
+      "id": "1487657599389401218",
+      "name": "Dropdown_Ceiling_Display_by_Hampter_and_Mingyu.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264723599430/Ceiling_Box_Display.png?ex=6858d62b&is=685784ab&hm=4812164307a09a98b0a65a568235cd7fa0f1ad2200c9dc395aa5f11351e5b2a5&",
-      "description": "",
-      "canDownload": true,
-      "width": 791,
-      "height": 800,
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1487657599389401218/Dropdown_Ceiling_Display_by_Hampter_and_Mingyu.png?ex=6ad8dcdb&is=6ad78b5b&hm=58ab974efe181bf82b34fdc22b3d53161e56ef04e6b2649a2c88adae4510fe99&",
+      "timestamp": 1774755611075,
       "author": {
-        "type": "unknown",
-        "username": "Unknown"
+        "type": "discord-external",
+        "id": "460316892976906261",
+        "username": "00000000006878",
+        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
       },
-      "timestamp": 1750566058000,
-      "path": "images/Ceiling_Box_Display.png",
-      "hash": "ce7b231eb20b1a06792d574987a47d0255e7d24262f2420974e3e963bb26da2e"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 116254,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1182,
+      "path": "images/Dropdown_Ceiling_Display_by_Hampter_and_Mingyu.png",
+      "hash": "a7133cec00e8f2deee73c95ba72416a2e3b195c7db93eee9fa183129710c984b",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1386199263746461867/1562196682794602669/1487657599389401218-dropdown_ceiling_display_by_hampter_and_mingyu.png?ex=6ad91c89&is=6ad7cb09&hm=97fb4d0ccf7fec681f210835b0e6adef51c40f729f3e7b6ff9fb4cf0c5cf53cd&"
     }
   ],
   "attachments": [
     {
-      "id": "1386199264144789535",
-      "name": "TD001_ceiling_box_display.litematic",
+      "id": "1487657598202151112",
+      "name": "TD001_Dropdown_Ceiling_Box_Display.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264144789535/ceiling_box_display.litematic?ex=6858d62a&is=685784aa&hm=e4cae11c91d47a3b182f12edb375f43768d70c8150db844587e587054c751e98&",
-      "description": "",
-      "canDownload": true,
-      "litematic": {
-        "size": "1x8x8",
-        "version": "1.17.1"
+      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1487657598202151112/Dropdown_Ceiling_Box_Display.litematic?ex=6ad8dcda&is=6ad78b5a&hm=8f49a6eb41a75caf20a311595c85bd82193d6d748a67a0bf6c0da3f519a5634a&",
+      "timestamp": 1774755611075,
+      "author": {
+        "type": "discord-external",
+        "id": "460316892976906261",
+        "username": "00000000006878",
+        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
       },
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1750566058000,
-      "path": "attachments/TD001_ceiling_box_display.litematic",
-      "hash": "049d1206aba52905ed51d2c4c117b8f2aa3bedbee661c8b3b4999c1d35be0f46"
+      "description": "",
+      "size": 968,
+      "canDownload": true,
+      "hash": "e53c59f331ed818765287934001cea1fcc9f97463b2565782191feea35f778f2",
+      "path": "attachments/TD001_Dropdown_Ceiling_Box_Display.litematic",
+      "litematic": {
+        "size": "1x8x8",
+        "version": "1.17"
+      }
     }
   ],
   "records": {
@@ -118,10 +125,10 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388317123041951817",
     "attachmentMessageId": "1388178004353487019",
-    "uploadMessageId": "1388177999366590634",
+    "uploadMessageId": "1562196785466839153",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388317123041951817/1388317123805184151/Ceiling_Box_Display.png?ex=69b2b354&is=69b161d4&hm=964f2c8593fe6fcb0c7fbb29844231aa203809482fa92035ca83b684c2a2e7e1&"
   },
   "archivedAt": 1750566430138,
-  "updatedAt": 1778395948075,
+  "updatedAt": 1792527136525,
   "num_comments": 0
 }

@@ -1,5 +1,5 @@
 # Drop-Down Ceiling Box Display
-<img alt="Ceiling_Box_Display.png" src="images/Ceiling_Box_Display.png?raw=1" height="300px">
+<img alt="Dropdown_Ceiling_Display_by_Hampter_and_Mingyu.png" src="images/Dropdown_Ceiling_Display_by_Hampter_and_Mingyu.png?raw=1" height="300px">
 
 **Authors:** *hampter42_*
 
@@ -20,4 +20,4 @@ Designed for quad displays, with all wiring up top. Hopperlocking is possible wi
 For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails.
 
 ## Resources
-- [TD001_ceiling_box_display.litematic](attachments/TD001_ceiling_box_display.litematic): MC 1.17.1, Size 1x8x8 blocks
+- [TD001_Dropdown_Ceiling_Box_Display.litematic](attachments/TD001_Dropdown_Ceiling_Box_Display.litematic): MC 1.17, Size 1x8x8 blocks
