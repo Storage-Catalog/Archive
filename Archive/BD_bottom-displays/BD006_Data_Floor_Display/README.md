@@ -15,9 +15,8 @@ A tiny floor display which is great for quad bulks.
 - Default extended
 - Collectionless
 - 1 hopper, locked when a box is displayed
-## Considerations
-- Will eventually buffer boxes in the hopper and dispenser.
-## Notes
+- 2 full boxes buffered at most, 1 in the hopper, 1 in the dispenser
+## Compatibility
 Versions with the comparator on the piston are 1.16+
 
 ## Other Images
@@ -30,4 +29,4 @@ Versions with the comparator on the piston are 1.16+
 <img src="images/area_render_3_.png?raw=1" height="300px">
 
 ## Resources
-- [BD006_Data_-_Floor_Display.litematic](attachments/BD006_Data_-_Floor_Display.litematic): MC 1.21.4, Size 1x6x5 blocks
+- [BD006_DatNerd_Floor_Display.litematic](attachments/BD006_DatNerd_Floor_Display.litematic): MC 1.21.4, Size 1x6x5 blocks

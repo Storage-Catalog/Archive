@@ -13,8 +13,8 @@
       "type": "discord-in-guild",
       "id": "114896993654013958",
       "username": "datnerd",
-      "displayName": "DatNerd",
-      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp",
+      "displayName": "DatNerd"
     }
   ],
   "endorsers": [
@@ -48,13 +48,13 @@
       "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324401877112/Data_-_Floor_Display.png?ex=685cf951&is=685ba7d1&hm=7315967841b470d9ea6c96f7704facbcbb4e317049d0594a667bd72b29a7d406&",
       "description": "",
       "canDownload": true,
-      "path": "images/Data_-_Floor_Display.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "ragdollwilly"
+        "username": "Unknown"
       },
       "timestamp": 1750794001000,
+      "path": "images/Data_-_Floor_Display.png",
       "hash": "c65aa50cd395cb108bb389543d365a7725a1ef638711519b290806e531564e5a"
     },
     {
@@ -66,13 +66,13 @@
       "canDownload": true,
       "width": 676,
       "height": 800,
-      "path": "images/area_render.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "ragdollwilly"
+        "username": "Unknown"
       },
       "timestamp": 1750856696000,
+      "path": "images/area_render.png",
       "hash": "a37c7851c821e13a0e074db399f431feadc61ad763c9c27c6700c1dbfd0ff509"
     },
     {
@@ -84,13 +84,13 @@
       "canDownload": true,
       "width": 676,
       "height": 800,
-      "path": "images/area_render_1_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "ragdollwilly"
+        "username": "Unknown"
       },
       "timestamp": 1750856696000,
+      "path": "images/area_render_1_.png",
       "hash": "45e6434a4a3248b57680c14df98458abf332912d9926170b603ef47b8ec1a6be"
     },
     {
@@ -102,13 +102,13 @@
       "canDownload": true,
       "width": 676,
       "height": 800,
-      "path": "images/area_render_2_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "ragdollwilly"
+        "username": "Unknown"
       },
       "timestamp": 1750856696000,
+      "path": "images/area_render_2_.png",
       "hash": "48d86ebc898b96062ca51bf91c934508ec3e0715cde5e79f19f2ff24488cd40e"
     },
     {
@@ -120,37 +120,40 @@
       "canDownload": true,
       "width": 800,
       "height": 794,
-      "path": "images/area_render_3_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "ragdollwilly"
+        "username": "Unknown"
       },
       "timestamp": 1750857342000,
+      "path": "images/area_render_3_.png",
       "hash": "edcfc715b0400af3a630971c545d49cc9e804c036c7c6e06572a659d15125dac"
     }
   ],
   "attachments": [
     {
-      "id": "1387155324678574170",
-      "name": "BD006_Data_-_Floor_Display.litematic",
+      "id": "1562199050756034580",
+      "name": "BD006_DatNerd_Floor_Display.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324678574170/Data_-_Floor_Display.litematic?ex=685c5091&is=685aff11&hm=0877da63e60b39985e0c0b3f360d23525f73715bf6517d54fc7fe0acc1f9875f&",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1562199050756034580/DatNerd_Floor_Display.litematic?ex=6ad91ebd&is=6ad7cd3d&hm=52baf4117874a33d71d37852e6586bb4f4bb410e5234d9934473552e47f4303d&",
+      "timestamp": 1792527678043,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 1088,
       "canDownload": true,
+      "hash": "7e831f42dfeaf59973cbbdc18d8d4c02bfc479a3bcc47ec7bb68e39eb8422fe2",
+      "path": "attachments/BD006_DatNerd_Floor_Display.litematic",
       "litematic": {
         "size": "1x6x5",
         "version": "1.21.4"
-      },
-      "path": "attachments/BD006_Data_-_Floor_Display.litematic",
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "ragdollwilly"
-      },
-      "timestamp": 1750794001000,
-      "size": 1060,
-      "hash": "715992ecc83a3147de880068661037e09bca981bf5a83a3c36bfb8b3ee6c596d"
+      }
     }
   ],
   "records": {
@@ -159,13 +162,12 @@
       "Local first box placement",
       "Default extended",
       "Collectionless",
-      "1 hopper, locked when a box is displayed"
+      "1 hopper, locked when a box is displayed",
+      "2 full boxes buffered at most, 1 in the hopper, 1 in the dispenser"
     ],
-    "considerations": [
-      "Will eventually buffer boxes in the hopper and dispenser."
-    ],
-    "notes": "Versions with the comparator on the piston are 1.16+"
+    "compatibility": "Versions with the comparator on the piston are 1.16+"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -186,10 +188,10 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388317284279390339",
     "attachmentMessageId": "1388178213347528886",
-    "uploadMessageId": "1388178203239121006",
+    "uploadMessageId": "1562199634468933782",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388317284279390339/1388317284531179651/area_render.png?ex=69b2b37a&is=69b161fa&hm=8fc382cc9873660a3491ae30fc07a81d639b2fe4fd466b592fc1edcb08a01fcf&"
   },
   "archivedAt": 1754180730718,
-  "updatedAt": 1754180730718,
+  "updatedAt": 1792527816491,
   "num_comments": 0
 }
