@@ -28,12 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1465487570585649259",
-      "name": "Untested"
-    },
-    {
-      "id": "1465487570585649260",
-      "name": "Broken"
+      "id": "1465491524203839539",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -126,11 +122,11 @@
       "size": 8432
     },
     {
-      "id": "1517154848657903787",
-      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
+      "id": "1566981079812800564",
+      "name": "MIS012_26.2_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1517154848657903787/1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic?ex=6a35400f&is=6a33ee8f&hm=1a41422f46a0e13bea2210cd78e81fc48f87189e36a2e6801bf5c8a5e509caf6&",
-      "timestamp": 1781788303364,
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1566981079812800564/26.2_16gt_Cart_MIS_Storage_-_Categories_Included.litematic?ex=6aea845a&is=6ae932da&hm=1af08b596b704644389e4f76a60a5191154e3a11671c3d514411bb25bbdeff3d&",
+      "timestamp": 1793667802709,
       "author": {
         "type": "discord-in-guild",
         "id": "373459450826194944",
@@ -139,14 +135,14 @@
         "iconURL": "https://cdn.discordapp.com/avatars/373459450826194944/38ad65b65141a2451d0ff2f3d1fd6eea.webp"
       },
       "source": "MessageAttachment",
-      "description": "",
-      "size": 53189,
+      "description": "Confirmed working for both 26.2 and 26.3",
+      "size": 49175,
       "canDownload": true,
-      "hash": "560fda858c55aff3f7208022cf3dcb2edcf1cc2454fb4d8de38ba3a833863dbe",
-      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
+      "hash": "1a1be8394eec90e3c4d1006e19c5af326570ff67801dd29fd2a96ce9d92de604",
+      "path": "attachments/MIS012_26.2_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
       "litematic": {
         "size": "19x14x45",
-        "version": "1.21.10"
+        "version": "26.2"
       }
     }
   ],
@@ -169,7 +165,7 @@
       "Sometimes items will go in topmost chest in slices even when theres space below."
     ],
     "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items.",
-    "compatibility": "1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11",
+    "compatibility": "26.2+, broken in older 1.21 versions because of bubble column changes.",
     "instructions": [
       {
         "title": "**To build:** build the schematic using Litematica, make sure to fill inventories accordingly. Press \"I\" on container to see inventories. https://modrinth.com/mod/techutils highly recommended to verify. Inventories filled in the storage:",
@@ -304,10 +300,10 @@
       "1513703568505442334"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1477856882214310001",
-    "uploadMessageId": "1517207045064102119",
+    "uploadMessageId": "1567016066322927666",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1477856882214310001/1477856891194572872/render.png?ex=69b2cf3c&is=69b17dbc&hm=06a357c37905520002f05d32abc14611e3aef09bb34dd32351d7c0d28f0417dc&"
   },
   "archivedAt": 1772418929934,
-  "updatedAt": 1793221297220,
+  "updatedAt": 1793676142412,
   "num_comments": 0
 }

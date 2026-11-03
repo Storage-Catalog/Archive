@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested, Broken*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1477856882214310001)
 
@@ -27,7 +27,7 @@ A small but powerful multi-item sorting storage system with up to 32x hopperspee
 ## Notes
 Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items.
 ## Compatibility
-1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11
+26.2+, broken in older 1.21 versions because of bubble column changes.
 ## Instructions
 1. **To build:** build the schematic using Litematica, make sure to fill inventories accordingly. Press "I" on container to see inventories. https://modrinth.com/mod/techutils highly recommended to verify. Inventories filled in the storage:
     - 2x double chest and a chain of hoppers at unloader containing __hopper minecarts__
@@ -51,4 +51,5 @@ Chunkloader excluded in schem but redstone connection for one included. Recommen
 ## Resources
 - [MIS012_16gt-Cart-MIS-Storage-Categories.zip](attachments/MIS012_16gt-Cart-MIS-Storage-Categories.zip): discord
   - Contains JSON configuration for the item layout tool website
-- [MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic](attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic): MC 1.21.10, Size 19x14x45 blocks
+- [MIS012_26.2_16gt_Cart_MIS_Storage_-_Categories_Included.litematic](attachments/MIS012_26.2_16gt_Cart_MIS_Storage_-_Categories_Included.litematic): MC 26.2, Size 19x14x45 blocks
+  - Confirmed working for both 26.2 and 26.3
