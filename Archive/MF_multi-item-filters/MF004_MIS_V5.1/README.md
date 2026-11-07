@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1461793011833897264)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1568482066620874853)
 
 Modification of MIS v5 that sorts items at hopper speed with a 16gt delay between item types. Silent, 2x7x7 size, can sort up to 54 items per slice, handles 64 and 16 stackable items, accepts unstackables (but can't sort them), and can be fully hopper locked. A 1-wide butterfly tiled version is also included.
 ## Features
