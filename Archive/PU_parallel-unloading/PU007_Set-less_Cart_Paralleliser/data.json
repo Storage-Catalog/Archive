@@ -1,0 +1,198 @@
+{
+  "id": "1569101907975209112",
+  "name": "Set-less Cart Paralleliser",
+  "code": "PU007",
+  "reservedCodes": [
+    "PU007"
+  ],
+  "pastPostThreadIds": [
+    "1569105915116781739"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "displayName": "javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "306131701493399554",
+      "username": "tpsnighthunter",
+      "displayName": "TPS Nighthunter",
+      "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491702033809471",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1569102156508692590",
+      "name": "image.png",
+      "url": "https://cdn.discordapp.com/attachments/1569101907975209112/1569102156508692590/image.png?ex=6af23bc2&is=6af0ea42&hm=c7214a288aa2940f1dac3caf3ea24d137058bee873fadc95141a41b39ecc5b78&",
+      "timestamp": 1794173505058,
+      "author": {
+        "type": "discord-external",
+        "id": "551464150925180928",
+        "username": "_javierrubik33",
+        "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 947,
+      "height": 1000,
+      "size": 176318,
+      "path": "images/image.png",
+      "hash": "2d92e922830859ee482e7c14e2d26c1ef1f4281d7ae41ddd1541a6c59dc422fb",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1569101907975209112/1569102163890937958/1569102156508692590-image.png?ex=6af23bc4&is=6af0ea44&hm=d005d98897c15267ccc4f28ea18d399590710d9e81537d5f7728f63aae4b19ad&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1569101908055163010",
+      "name": "PU007_Cart_Paralleliser_Javi.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1569101907975209112/1569101908055163010/Cart_Paralleliser_Javi.litematic?ex=6af23b87&is=6af0ea07&hm=6f2130098f5465e9b96f4d51a538380e2f7dc070b7cc6430f2f1d1ec164a1680&",
+      "timestamp": 1794173447365,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "551464150925180928",
+        "username": "_javierrubik33",
+        "displayName": "javierrubik33",
+        "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2677,
+      "canDownload": true,
+      "hash": "6119db2f431872882b862d85b64e01384adf5fc84f4bd0b8e27610fb2e44e543",
+      "path": "attachments/PU007_Cart_Paralleliser_Javi.litematic",
+      "litematic": {
+        "size": "8x8x7",
+        "version": "26.3"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that can release up to 16 items in parallel at hopper speed each, allowing for faster sorting in a filter-based storage system.",
+    "features": [
+      "Up to 16× hopper-speed sorting (141,750 items/hour)",
+      "Accepts any item as input",
+      "Outputs unstackable items",
+      "Cheap and small: 8×8×7",
+      "Few inventories to fill",
+      "Entity read-out can register up to 150 entities",
+      "Refresh carts reset the despawn timer for items each cycle and can be configured to accept approximately 300 entities"
+    ],
+    "considerations": [
+      "Directional; should not be rotated or mirrored",
+      "Stacks release with a size up to 63, so only low-threshold item filters may be used",
+      "Uses a high count of entities, which are almost always still",
+      "There is no way to limit the user. A player can throw large amounts of items by hand; exceeding the entity-count limit may cause despawns. A box unloader is recommended.",
+      "Items are not sorted at exactly hopper speed; 8 game ticks of extra delay were added between cycles to account for more types of filters."
+    ],
+    "notes": "Logic designed by <@239078039831445504>. Wiring and logic optimisation by <@384084307712409600>."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "Directional"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "ticks"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp",
+        "displayName": "Andrews54757"
+      },
+      "matches": [
+        "<@239078039831445504>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp",
+        "displayName": "TisUnfortunate"
+      },
+      "matches": [
+        "<@384084307712409600>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1569105915116781739",
+    "forumId": "1375569870577467412",
+    "continuingMessageIds": [
+      "1569105927758545057",
+      "1569105928719044782"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1569105915116781739",
+    "uploadMessageId": "1569105913439199282"
+  },
+  "archivedAt": 1794174397650,
+  "updatedAt": 1794174397650,
+  "num_comments": 0
+}

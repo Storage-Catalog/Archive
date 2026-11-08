@@ -4,7 +4,7 @@
   "code": "PU",
   "category": "Advanced Tech",
   "description": "Parallel unloading systems and arrays",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386458979843969024",
@@ -30,6 +30,11 @@
       "id": "1496587063074750484",
       "code": "PU006",
       "path": "PU006_Variable_Item_Entity_Parallel_Unloader_Array"
+    },
+    {
+      "id": "1569101907975209112",
+      "code": "PU007",
+      "path": "PU007_Set-less_Cart_Paralleliser"
     }
   ]
 }
