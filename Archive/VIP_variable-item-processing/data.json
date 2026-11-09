@@ -4,7 +4,7 @@
   "code": "VIP",
   "category": "Advanced Tech",
   "description": "Variable item sorting devices such as variable filter loaders, splitters, cycvars, etc...",
-  "currentCodeId": 11,
+  "currentCodeId": 12,
   "entries": [
     {
       "id": "1386431947928244496",
@@ -55,6 +55,11 @@
       "id": "1517401090910457866",
       "code": "VIP011",
       "path": "VIP011_3wt_Hopper_Speed_Cycvar"
+    },
+    {
+      "id": "1568964406119768074",
+      "code": "VIP012",
+      "path": "VIP012_64x_Fullspeed_Ideal_Splitter"
     }
   ]
 }

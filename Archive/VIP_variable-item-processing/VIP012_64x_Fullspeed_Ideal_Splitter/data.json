@@ -1,0 +1,172 @@
+{
+  "id": "1568964406119768074",
+  "name": "64x Fullspeed Ideal Splitter",
+  "code": "VIP012",
+  "reservedCodes": [
+    "VIP012"
+  ],
+  "pastPostThreadIds": [
+    "1569168948342165627"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "rhiesgyad"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1326487900308901958",
+      "username": "under_pillow__37712",
+      "displayName": "Under_Pillow",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    },
+    {
+      "type": "unknown",
+      "username": "Ecpoder"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491736636948685",
+      "name": "Functional"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1569164871101321247",
+      "name": "VIP012_64x_v1.11.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1568964406119768074/1569164871101321247/64x_v1.11.litematic?ex=6af2762a&is=6af124aa&hm=37e53b30aa7c0944c18e127ed9ea9441f99264a98d6285bcb0ef3dc93b6fd152&",
+      "timestamp": 1794188457802,
+      "author": {
+        "type": "discord-external",
+        "id": "1326487900308901958",
+        "username": "under_pillow__37712",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "3a537ae0da332baa1d67115adc773c91113b6e3f3bd8aef6a43f530def84d581",
+      "path": "attachments/VIP012_64x_v1.11.litematic",
+      "size": 16259,
+      "litematic": {
+        "size": "9x17x37",
+        "version": "26.1.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Split mixed boxes into single type boxes at 64x hopperspeed. Produces minimum partial boxes. Unlike VIP003, this device has no item type switching downtime and can operate at fullspeed regardless of input variance. It uses 3wt loader, a dolphin-based item refresher, and built-in box yeeting.",
+    "features": [
+      "9 x 17 x 37",
+      "Zero downtime item-type switching; no slowdown while switching between item types",
+      "3wt box loaders",
+      "No idle hopper minecarts",
+      "Fully locked hopper in loaders",
+      "Dolphin-based item refresher",
+      "Cactus-based box yeeting box unloader"
+    ],
+    "considerations": [
+      "Lag from entities scales quadratically with the amount of items input in a single batch.",
+      "The dolphin-based item refresher may be slow in 26.1-26.3 due to Mojang's nerfing of dolphins."
+    ],
+    "notes": "The design has been tested with approximately 30,000 boxes. Uses counter from VIP003",
+    "compatibility": "1.21.6+ except 26.1-26.2",
+    "instructions": [
+      "Put items (any item including boxes), into topmost water stream (by the birch fence gate)."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Ideal box output",
+      "id": "1460470569966374956",
+      "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
+      "matches": [
+        "minimum partial boxes"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1387083566676181035",
+      "code": "VIP003",
+      "name": "32X and 64X Compact Ideal Splitter",
+      "url": "https://discord.com/channels/1375556143186837695/1388318356377043076",
+      "path": "Archive/VIP_variable-item-processing/VIP003_32X_and_64X_Compact_Ideal_Splitter",
+      "matches": [
+        "VIP003"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "fullspeed",
+      "id": "1454939844274032771",
+      "url": "https://discord.com/channels/1375556143186837695/1454939844274032771/1454939852222238955",
+      "matches": [
+        "fullspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box yeet",
+      "id": "1455677927902413046",
+      "url": "https://discord.com/channels/1375556143186837695/1455677927902413046/1455677929198456985",
+      "matches": [
+        "box yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1569168948342165627",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1569168956009484420",
+      "1569168956844150816"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1569168948342165627",
+    "uploadMessageId": "1569168944781066281"
+  },
+  "archivedAt": 1794189422828,
+  "updatedAt": 1794189422828,
+  "num_comments": 0
+}
