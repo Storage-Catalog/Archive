@@ -414,8 +414,8 @@
         "type": "discord-in-guild",
         "id": "719903397171560559",
         "username": "pyraleftt",
-        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
-        "displayName": "PyraLeft"
+        "displayName": "PyraLeft",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/89945dc04af5e623947d1c963951c5c5.webp"
       },
       "matches": [
         "<@719903397171560559>"
@@ -427,7 +427,7 @@
         "type": "discord-external",
         "id": "1423911333883154452",
         "username": "dashie_47",
-        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/2fd6c84d7c8222f6043e17018b2e9888.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/3291ad676337e762916ae39747a5e70b.webp"
       },
       "matches": [
         "<@1423911333883154452>"
