@@ -10,8 +10,11 @@
   ],
   "authors": [
     {
-      "type": "unknown",
-      "username": "rhiesgyad"
+      "type": "discord-in-guild",
+      "id": "1501599524886544465",
+      "username": "legendary_lemur_03827",
+      "displayName": "rhi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1501599524886544465/58dc3df7cfd8574b1a62e09b2456f26b.webp"
     },
     {
       "type": "discord-in-guild",
@@ -21,8 +24,11 @@
       "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
     },
     {
-      "type": "unknown",
-      "username": "Ecpoder"
+      "type": "discord-in-guild",
+      "id": "1467200109988151447",
+      "username": "etocotv98",
+      "displayName": "Ecpoder",
+      "iconURL": "https://cdn.discordapp.com/avatars/1467200109988151447/78da175ec045b31e2c0288aa764d321b.webp"
     }
   ],
   "endorsers": [
@@ -90,23 +96,24 @@
   ],
   "attachments": [
     {
-      "id": "1569164871101321247",
-      "name": "VIP012_64x_v1.11.litematic",
-      "url": "https://cdn.discordapp.com/attachments/1568964406119768074/1569164871101321247/64x_v1.11.litematic?ex=6af2762a&is=6af124aa&hm=37e53b30aa7c0944c18e127ed9ea9441f99264a98d6285bcb0ef3dc93b6fd152&",
-      "timestamp": 1794188457802,
-      "author": {
-        "type": "discord-external",
-        "id": "1326487900308901958",
-        "username": "under_pillow__37712",
-        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
-      },
-      "source": "DirectUpload",
-      "description": "",
+      "id": "1569887866698600538",
+      "name": "VIP012_64x_v1.11_fixed.litematic",
       "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1568964406119768074/1569887866698600538/64x_v1.11_fixed.litematic?ex=6af51782&is=6af3c602&hm=85be5b5ab61325461fb9e45b6d16aaf0754ceec5c00d48909074f664d4c5bc39&",
+      "timestamp": 1794360834626,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1501599524886544465",
+        "username": "legendary_lemur_03827",
+        "displayName": "rhi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1501599524886544465/58dc3df7cfd8574b1a62e09b2456f26b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 16228,
       "canDownload": true,
-      "hash": "3a537ae0da332baa1d67115adc773c91113b6e3f3bd8aef6a43f530def84d581",
-      "path": "attachments/VIP012_64x_v1.11.litematic",
-      "size": 16259,
+      "hash": "6e872348f24f5ea3b7cd6c91b9cb44c715813b74559d99049ad5db060a6fafa5",
+      "path": "attachments/VIP012_64x_v1.11_fixed.litematic",
       "litematic": {
         "size": "9x17x37",
         "version": "26.1.2"
@@ -211,9 +218,9 @@
       "1569168956844150816"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1569168948342165627",
-    "uploadMessageId": "1569168944781066281"
+    "uploadMessageId": "1569889576447774880"
   },
   "archivedAt": 1794189422828,
-  "updatedAt": 1794189930025,
+  "updatedAt": 1794361241329,
   "num_comments": 0
 }

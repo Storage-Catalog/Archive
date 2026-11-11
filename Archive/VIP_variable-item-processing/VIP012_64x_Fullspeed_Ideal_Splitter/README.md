@@ -1,7 +1,7 @@
 # 64x Fullspeed Ideal Splitter
 <img alt="64x_Box_Splitter.png" src="images/64x_Box_Splitter.png?raw=1" height="300px">
 
-**Authors:** *rhiesgyad, Under_Pillow, Ecpoder*
+**Authors:** *rhi, Under_Pillow, Ecpoder*
 
 **Endorsed by:** *Andrews54757*
 
@@ -32,4 +32,4 @@ The design has been tested with approximately 30,000 boxes. Uses counter from [V
 <img src="images/3wt_loader.png?raw=1" height="300px">
 
 ## Resources
-- [VIP012_64x_v1.11.litematic](attachments/VIP012_64x_v1.11.litematic): MC 26.1.2, Size 9x17x37 blocks
+- [VIP012_64x_v1.11_fixed.litematic](attachments/VIP012_64x_v1.11_fixed.litematic): MC 26.1.2, Size 9x17x37 blocks
