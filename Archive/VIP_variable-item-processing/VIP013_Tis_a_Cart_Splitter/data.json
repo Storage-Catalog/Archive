@@ -1,0 +1,167 @@
+{
+  "id": "1568709876786528346",
+  "name": "Tis a Cart Splitter",
+  "code": "VIP013",
+  "reservedCodes": [
+    "VIP013"
+  ],
+  "pastPostThreadIds": [
+    "1570939080596787330"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/507f7aeda02df9db38d4afb90ee50cda.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491736636948685",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1568709876992053339",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1568709876786528346/1568709876992053339/image.png?ex=6af0ce6b&is=6aef7ceb&hm=3a88bb1da3e69fb6f1c8ce3b048499b80796915ed85b492e99d595dbd78e1f10&",
+      "timestamp": 1794079979846,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 129297,
+      "canDownload": true,
+      "width": 526,
+      "height": 809,
+      "path": "images/image.png",
+      "hash": "b730e13abccbe4987f1d4d4366663f7f8b2cec4a0b874c7327c76aa2cff3ef3e",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1568709876786528346/1568710148929617991/1568709876992053339-image.png?ex=6af0ceac&is=6aef7d2c&hm=05c87d33465ca15a01c36621c898957bdb7b037ce595afaa00d5214d4f666c60&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1568709877352767800",
+      "name": "VIP013_Tis.A.Cart.Splitterv3.521.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1568709876786528346/1568709877352767800/Tis.A.Cart.Splitterv3.521.litematic?ex=6af0ce6b&is=6aef7ceb&hm=8e8dbda948db8a171c4976112bdb931710c53ce8b37abc786cc3f9a194b8835a&",
+      "timestamp": 1794079979846,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3708,
+      "canDownload": true,
+      "hash": "02ad401f3ba2e6323d36d08f7fc8ce11dd8c3b9273722bff6f1a1687c8583fd1",
+      "path": "attachments/VIP013_Tis.A.Cart.Splitterv3.521.litematic",
+      "litematic": {
+        "size": "11x15x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device with item handling, cart loading, and box input/output features.",
+    "features": [
+      "11 x 14 x 4wt",
+      "0gt between carts; items within an item type are pulled at 8x HS",
+      "Splits HermitCraft8 items at 6.3x HS (57000 I/H)",
+      "Random input proof",
+      "Water stream empty box input",
+      "Water stream unstackable and split box output",
+      "26 hoppers (2 locked)",
+      "No idle carts",
+      "Empty box proof"
+    ],
+    "considerations": [
+      "Empty box collection will lose about 1/1500 boxes",
+      "Buffers an empty box"
+    ],
+    "notes": "Slice locks for a duration after all boxes are processed to allow the idless-cart loader to power down; it remains unlocked until all boxes are cleared. The threshold for the next cart to check for the same type is 19. The first cart of each type pulls 27; every cart after pulls 28. There are 10–38 gt between item types, depending on final stack size."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "HS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "Slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1570939080596787330",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1570939100960391219"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1570939080596787330",
+    "uploadMessageId": "1570939077430345899"
+  },
+  "archivedAt": 1794611456782,
+  "updatedAt": 1794611456782,
+  "num_comments": 0
+}
