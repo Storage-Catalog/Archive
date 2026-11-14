@@ -35,7 +35,7 @@ Most inventories have signs indicating how to prefill them.
 - [Mercury](<https://space.bilibili.com/18525909>) - Chunk loader.
 - DatNerd - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834) (in [Storage Tech](https://discord.gg/JufJ6uf)).
 - [半筝half_kite](<https://space.bilibili.com/329820579>): Simple empty box crafter.
-- PyraLeft, dashie_47, 金合欢喵~ (AcaciaMeow) - isFull box check.
+- PyraLeft, Dashie, 金合欢喵~ (AcaciaMeow) - isFull box check.
 - Capybruhh (no ping plz) - item layout.
 - Passionate Storage Techer 69 - 2x loader and testing.
 

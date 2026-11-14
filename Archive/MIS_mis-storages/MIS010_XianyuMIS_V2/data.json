@@ -424,10 +424,11 @@
     {
       "type": "userMention",
       "user": {
-        "type": "discord-external",
+        "type": "discord-in-guild",
         "id": "1423911333883154452",
         "username": "dashie_47",
-        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/89b7baa73319006dcf30d7cbb5f37874.webp"
+        "displayName": "Dashie",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/437c86a2dc3b90d2a6ce8cdd8e7ae6da.webp"
       },
       "matches": [
         "<@1423911333883154452>"
