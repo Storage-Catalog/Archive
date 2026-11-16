@@ -28,4 +28,5 @@ A device that can release up to 16 items in parallel at hopper speed each, allow
 Logic designed by Andrews54757. Wiring and logic optimisation by TisUnfortunate.
 
 ## Resources
-- [PU007_Cart_Paralleliser_Javi.litematic](attachments/PU007_Cart_Paralleliser_Javi.litematic): MC 26.3, Size 8x8x7 blocks
+- [PU007_Cart_Paralleliser.litematic](attachments/PU007_Cart_Paralleliser.litematic): MC 26.3, Size 8x12x10 blocks
+  - Reliable schem
