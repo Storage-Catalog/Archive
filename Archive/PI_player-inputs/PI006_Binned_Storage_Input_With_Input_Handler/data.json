@@ -45,10 +45,13 @@
       "dontDisplay": true
     },
     {
-      "type": "unknown",
-      "username": "Basil",
-      "dontDisplay": true,
-      "reason": "Contributed to component"
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp",
+      "reason": "Contributed to component",
+      "dontDisplay": true
     }
   ],
   "endorsers": [
@@ -198,6 +201,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1502141146279837728/1502141149916168312/area_render_27_.png?ex=69fea176&is=69fd4ff6&hm=74830954d9d4f6c52f0a3c3ac6d19c6927b3b4b36b9edfd25bc06b210bc942f5&"
   },
   "archivedAt": 1778208751239,
-  "updatedAt": 1781983461000,
+  "updatedAt": 1795288330111,
   "num_comments": 0
 }
