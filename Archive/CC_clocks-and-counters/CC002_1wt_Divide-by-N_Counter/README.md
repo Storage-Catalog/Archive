@@ -1,7 +1,7 @@
 # 1wt Divide-by-N Counter
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *sandys*
+**Authors:** *Sandy*
 
 **Endorsed by:** *Andrews54757*
 
