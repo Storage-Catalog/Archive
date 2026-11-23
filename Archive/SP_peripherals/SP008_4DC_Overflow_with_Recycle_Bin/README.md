@@ -1,5 +1,5 @@
 # 4DC Overflow with Recycle Bin
-<img alt="NEW_Overflow_a.png" src="images/NEW_Overflow_a.png?raw=1" height="300px">
+<img alt="8DC_Overflow_a.png" src="images/8DC_Overflow_a.png?raw=1" height="300px">
 
 **Authors:** *Ragdoll Willy*
 
@@ -16,8 +16,5 @@ An overflow which accepts loose items (accessible loader) or boxes. Once the ove
 ## Considerations
 - Loose item input is 1x hopper speed
 
-## Other Images
-<img src="images/NEW_Overflow_b.png?raw=1" height="300px">
-
 ## Resources
-- [SP008_RW_Overflow_v27.litematic](attachments/SP008_RW_Overflow_v27.litematic): MC 1.21.4, Size 6x8x10 blocks
+- [SP008_8DC_Accessible_Overflow_with_Recycle_Bin.litematic](attachments/SP008_8DC_Accessible_Overflow_with_Recycle_Bin.litematic): MC 1.21.4, Size 10x8x6 blocks
