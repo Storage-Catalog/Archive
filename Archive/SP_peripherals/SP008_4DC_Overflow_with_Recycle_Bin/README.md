@@ -11,7 +11,7 @@
 
 An overflow which accepts loose items (accessible loader) or boxes. Once the overflow chests are filled, following boxes will be sent to a recycle bin.
 ## Features
-- 4DC of overflow
+- 8DC of overflow
 - Lamp indicator that there are items in the recycle bin
 ## Considerations
 - Loose item input is 1x hopper speed
