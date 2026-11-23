@@ -46,7 +46,7 @@ Take care while building if you plan on using this. Several components either re
 * [Unstackable Sorter](https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958) (in [Storage Tech](https://discord.gg/JufJ6uf)) - CommandLeo
 * [Pulse Extenders](https://discord.com/channels/748542142347083868/748547221338849330/1085755072052478043) (in [Storage Tech](https://discord.gg/JufJ6uf)) - CommandLeo
 * [Auto restock Brewers](https://discord.com/channels/1161803566265143306/1445155255808430193/1445155255808430193) (in [TMC Catalogue](https://discord.com/invite/tvpccRczWx)) - Fluffy Socks
-* [Overflow system (SP008)](../../../Archive/SP_peripherals/SP008_4DC_Overflow_with_Recycle_Bin)- Ragdoll Willy
+* [Overflow system (SP008)](../../../Archive/SP_peripherals/SP008_8DC_Overflow_with_Recycle_Bin)- Ragdoll Willy
 * [Hidden enchant table](https://youtu.be/c7XBJxBhVbc) (YT link) - Rexxstone
 * [Anvil replacer](https://youtu.be/kAS-ZaNnF10) (YT link) - Rexxstone
 * [Xp Farm](https://discord.com/channels/1161803566265143306/1444280155496386651/1444280155496386651) (in [TMC Catalogue](https://discord.com/invite/tvpccRczWx)) - Sicarious
