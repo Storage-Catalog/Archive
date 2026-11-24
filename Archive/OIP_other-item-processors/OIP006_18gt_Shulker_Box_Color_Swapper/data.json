@@ -1,0 +1,176 @@
+{
+  "id": "1573763077856563270",
+  "name": "18gt Shulker Box Color Swapper",
+  "code": "OIP006",
+  "reservedCodes": [
+    "OIP006"
+  ],
+  "pastPostThreadIds": [
+    "1574889243606782053"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie911",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/0dbf6ad067788b2867fc563baaaa6f41.webp",
+      "reason": "i made it"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "183711148288245760",
+      "username": "drakephose",
+      "displayName": "DrakePHOSE",
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp",
+      "reason": "inspiration"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp",
+      "reason": "inspiration"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491386924138613",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1573763078321995858",
+      "name": "Color_Swapper.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1573763077856563270/1573763078321995858/image.png?ex=6b033094&is=6b01df14&hm=758e18360fce513910852d85a137573e33dfd773bfca1d7fb286d19f06072546&",
+      "timestamp": 1795284756865,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1423911333883154452",
+        "username": "dashie_47",
+        "displayName": "Dashie",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "it swaps",
+      "size": 302210,
+      "canDownload": true,
+      "width": 1200,
+      "height": 746,
+      "path": "images/Color_Swapper.png",
+      "hash": "3f7e98d677784d99d8e6c10c121831fbe7803e81c931dd1a73ab145454d5f382",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1573763077856563270/1573764178785603704/1573763078321995858-color_swapper.png?ex=6b03319b&is=6b01e01b&hm=144b18c176d8ff7554ab363a48608a9738868bdae207fb728b0820b09df7c634&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1573764650988998737",
+      "name": "OIP006_18gt_Color_Swapper_.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1573763077856563270/1573764650988998737/18gt_Color_Swapper_.litematic?ex=6b03320b&is=6b01e08b&hm=b21ff3a74aabb7d498ff56a5f369c67431bd4ab792e2741f872da131f2ccc14f&",
+      "timestamp": 1795285132003,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1423911333883154452",
+        "username": "dashie_47",
+        "displayName": "Dashie",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7566,
+      "canDownload": true,
+      "hash": "d272ac501761a6219f1acd3439f12e7306158782ac6d11e1a485234a97a9dfd9",
+      "path": "attachments/OIP006_18gt_Color_Swapper_.litematic",
+      "litematic": {
+        "size": "22x10x6",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that assigns different item types to their own chests to recolor them.",
+    "features": [
+      "Recolors each box in 18 GT.",
+      "Idle cartless: removes the hopper minecart when the device is not in use.",
+      "Checks that all chests contain their contents before starting and shuts down if the chests are not reset while it is running.",
+      "Has two separate outputs: the lower output is for dyes, and the top output is for boxes.",
+      "Supports shulker boxes, including recoloring the same box; it outputs both dyes and boxes.",
+      "If it runs out of dyes, it will not recolor the box and will continue working.",
+      "Completely expandable and adjustable; slices can be configured to add or remove colors."
+    ],
+    "considerations": [
+      "Dry-fire proof: it will not scramble the encoder, but it will lose minecarts and clog the droppers at the end."
+    ],
+    "notes": "Fully Hopperlocking is possible if you desire",
+    "compatibility": "1.21 Crafters",
+    "instructions": [
+      "Use this after your varsorting/boxloader array and before your bulk/other input"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "GT"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Encoder",
+      "id": "1454753601967624213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753601967624213/1454753602802548800",
+      "matches": [
+        "encoder"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocking"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1574889243606782053",
+    "forumId": "1375564209882009772",
+    "continuingMessageIds": [
+      "1574889255141117954",
+      "1574889256739012750"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1574889243606782053",
+    "uploadMessageId": "1574889239450099787"
+  },
+  "archivedAt": 1795553249200,
+  "updatedAt": 1795553249200,
+  "num_comments": 0
+}

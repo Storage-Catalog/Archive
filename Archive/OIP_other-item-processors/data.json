@@ -4,7 +4,7 @@
   "code": "OIP",
   "category": "Item Processing",
   "description": "Other item processors",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386191299228467241",
@@ -30,6 +30,11 @@
       "id": "1455651277718552586",
       "code": "OIP005",
       "path": "OIP005_StackableUnstackableBox_Pre-sorter"
+    },
+    {
+      "id": "1573763077856563270",
+      "code": "OIP006",
+      "path": "OIP006_18gt_Shulker_Box_Color_Swapper"
     }
   ]
 }
