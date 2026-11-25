@@ -7,7 +7,7 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1574889243606782053)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1575188276292231281)
 
 A device that assigns different item types to their own chests to recolor them.
 ## Features
@@ -33,4 +33,4 @@ Fully Hopperlocking is possible if you desire
 - XP_Bot: inspiration
 
 ## Resources
-- [OIP006_18gt_Color_Swapper_.litematic](attachments/OIP006_18gt_Color_Swapper_.litematic): MC 1.21.11, Size 22x10x6 blocks
+- [AC006_18gt_Color_Swapper_.litematic](attachments/AC006_18gt_Color_Swapper_.litematic): MC 1.21.11, Size 22x10x6 blocks

@@ -4,7 +4,7 @@
   "code": "AC",
   "category": "Item Processing",
   "description": "Autocrafting devices such as crafter filter loaders, compacters, etc.",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386528814389137518",
@@ -30,6 +30,11 @@
       "id": "1386527611878117386",
       "code": "AC005",
       "path": "AC005_Filtered_Precision_Compactor_Crafter_Loaders"
+    },
+    {
+      "id": "1573763077856563270",
+      "code": "AC006",
+      "path": "AC006_18gt_Shulker_Box_Color_Swapper"
     }
   ]
 }
