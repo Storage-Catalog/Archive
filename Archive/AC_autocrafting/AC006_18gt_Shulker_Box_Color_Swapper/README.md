@@ -1,7 +1,7 @@
 # 18gt Shulker Box Color Swapper
 <img alt="Color_Swapper.png" src="images/Color_Swapper.png?raw=1" height="300px">
 
-**Authors:** *Dashie911, DrakePHOSE, XP_Bot*
+**Authors:** *Dashie, DrakePHOSE, XP_Bot*
 
 **Endorsed by:** *TisUnfortunate*
 
@@ -28,7 +28,7 @@ Fully Hopperlocking is possible if you desire
 1. Use this after your varsorting/boxloader array and before your bulk/other input
 
 ## Acknowledgements:
-- Dashie911: i made it
+- Dashie: i made it
 - DrakePHOSE: inspiration
 - XP_Bot: inspiration
 
